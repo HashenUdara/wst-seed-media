@@ -726,5 +726,9 @@
   "tours/photos/2026-06-indepedance-square.jpg": {
     "sha256": "47b86e6191752383316bbac7568b6c0e7ca01e7ad840bcc274f3b26d0647bf90",
     "bytes": 30681
+  },
+  "tours/photos/eastern-coast-blue-escape-route-map-v8.png": {
+    "sha256": "d96219c304c89fd3ec01e954b017ced7ee527b6c142c6dfb026b0a48d23938f1",
+    "bytes": 2056105
   }
 }
