@@ -327,6 +327,34 @@
     "sha256": "a930ccdf6d40361a5b95be614180be3c8f5929abc4355fd557ed2d89c058c917",
     "bytes": 2400958
   },
+  "guide/photos/2026-10-guide-attractions-hero-v1.webp": {
+    "sha256": "d5b02075beca298a7476db2f927b01843b5cc3ba84cef99e037a1bab31183a7b",
+    "bytes": 599454
+  },
+  "guide/photos/2026-10-guide-destinations-hero-v1.webp": {
+    "sha256": "2ba227d592ce505da0869e67a55de818803152d7bdd7fa4fde995f9b1c7611f6",
+    "bytes": 441334
+  },
+  "guide/photos/2026-10-guide-events-hero-v1.webp": {
+    "sha256": "eecdf48852319a3f6d1477817c1fc609175300fd12131fd413bd55aa21a7abf3",
+    "bytes": 271460
+  },
+  "guide/photos/2026-10-guide-faq-hero-v1.webp": {
+    "sha256": "231b4485730e0c2d1cfd720bfeeb3d371af77477ad6bd66c5ffa43aba2746cd2",
+    "bytes": 235820
+  },
+  "guide/photos/2026-10-guide-overview-hero-v1.webp": {
+    "sha256": "fbf451b9d5f8a5635db78c757159b2ee8528e7d3a6eef54b145fe06a7d78c839",
+    "bytes": 376434
+  },
+  "guide/photos/2026-10-guide-things-to-do-hero-v1.webp": {
+    "sha256": "3c7ff66e50646db45e37c5c349273f3faca33a22163051c754d02bbaeb2878fd",
+    "bytes": 503212
+  },
+  "guide/photos/2026-10-guide-travel-tips-hero-v1.webp": {
+    "sha256": "5ecdfe08c6a55f72e1bd2c000f4de75aa4cc692a61b39faae118552e9ad07fe4",
+    "bytes": 476432
+  },
   "tours/photos/2025-02-aerial-tangalle-beach-sri-lanka-view-from-2.jpg": {
     "sha256": "7dec178f818c12e34cb91fed2c613200beeb1674995c80ced5df404929f676dd",
     "bytes": 49073
