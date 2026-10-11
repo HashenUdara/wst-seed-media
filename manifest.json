@@ -355,6 +355,34 @@
     "sha256": "5ecdfe08c6a55f72e1bd2c000f4de75aa4cc692a61b39faae118552e9ad07fe4",
     "bytes": 476432
   },
+  "guide/photos/travel-tips/money-and-payments-v1.jpg": {
+    "sha256": "a4bcf4d5f3d8ab0ac236778ede49a43f4fd0f144d0fab46a9a439e57f68dff9a",
+    "bytes": 366991
+  },
+  "guide/photos/travel-tips/safety-and-practical-advice-v1.jpg": {
+    "sha256": "1fa1e9e974c5cb3c3b5d44f092980c0823d9776305d778fdcf21be4bfbe0e7e4",
+    "bytes": 480861
+  },
+  "guide/photos/travel-tips/sim-cards-and-internet-v1.jpg": {
+    "sha256": "a365a8278195737d50315d192e1ec1b1ff0389277e2ea71be216f80679876ac0",
+    "bytes": 378427
+  },
+  "guide/photos/travel-tips/transport-in-sri-lanka-v1.jpg": {
+    "sha256": "0ed1746ce6c2f2e4b6ed63d54a229870e22c7ea742245cf1cac9b7bbe25a48b5",
+    "bytes": 683675
+  },
+  "guide/photos/travel-tips/visa-information-v1.jpg": {
+    "sha256": "946ec2e80e2cc757d0cd5907bf311c071c8168cc7911fb8b7d27987671a5f7f9",
+    "bytes": 362967
+  },
+  "guide/photos/travel-tips/weather-and-best-time-to-visit-v1.jpg": {
+    "sha256": "a3998f719a970757bbe020edd6fb3da72e4f0dc3ea445d3835f6ef951ea095a2",
+    "bytes": 585188
+  },
+  "guide/photos/travel-tips/what-to-pack-v1.jpg": {
+    "sha256": "1dc00ce2ab7032003e15f4b89cf1d72db6d90ff64835e7c390b12a850c3d8f9e",
+    "bytes": 548400
+  },
   "tours/photos/2025-02-aerial-tangalle-beach-sri-lanka-view-from-2.jpg": {
     "sha256": "7dec178f818c12e34cb91fed2c613200beeb1674995c80ced5df404929f676dd",
     "bytes": 49073
