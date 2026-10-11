@@ -727,8 +727,220 @@
     "sha256": "47b86e6191752383316bbac7568b6c0e7ca01e7ad840bcc274f3b26d0647bf90",
     "bytes": 30681
   },
+  "tours/photos/beyond-boundaries-adventure-route-map-geographic.png": {
+    "sha256": "f438f75ebcf31ba8ee2db0a1574c0ebad3f656aa0f007949c64e344d76a0afed",
+    "bytes": 1742445
+  },
+  "tours/photos/coastal-romance-escape-route-map-geographic.png": {
+    "sha256": "8805b48a42c15033c3f639dc78ca043e1fb5ba6af9f883619ed692caebf01daf",
+    "bytes": 1453639
+  },
+  "tours/photos/colombo-city-escape-route-map-geographic.png": {
+    "sha256": "a05a91e4e25c0db442fd0e4226cf137739bcd0ddf210756087a6b2a23e68ed2d",
+    "bytes": 1411173
+  },
+  "tours/photos/cultural-odyssey-of-sri-lanka-route-map-geographic.png": {
+    "sha256": "770e9871da3f7ad593cf8401d20b1457e9f450a89c9a4228c2fe76cb0769657a",
+    "bytes": 1619740
+  },
+  "tours/photos/eastern-coast-blue-escape-route-map-geographic.png": {
+    "sha256": "c953c5fb0452fbad7f14a5bbd77ba01122c7dd7258fbf3ff87ce4f73a61c8aab",
+    "bytes": 1647911
+  },
   "tours/photos/eastern-coast-blue-escape-route-map-v8.png": {
     "sha256": "d96219c304c89fd3ec01e954b017ced7ee527b6c142c6dfb026b0a48d23938f1",
     "bytes": 2056105
+  },
+  "tours/photos/family-island-escapade-route-map-geographic.png": {
+    "sha256": "41d5aca21f5f2e9f9011049cb5d97a912862eacfc27bf6a8535107a1347fb347",
+    "bytes": 1766488
+  },
+  "tours/photos/heritage-legacy-grand-tour-route-map-geographic.png": {
+    "sha256": "9e84983b9b74c93318289e67a6cf915f65be3068559b4f2de74a63cfb3ae7fa4",
+    "bytes": 1790413
+  },
+  "tours/photos/hill-country-coast-escape-route-map-geographic.png": {
+    "sha256": "514c812b9373e721df6e8c42311d2c28f1d9e67082eba99fa2903bb4eebfbd41",
+    "bytes": 1576607
+  },
+  "tours/photos/hill-country-retreat-route-map-geographic.png": {
+    "sha256": "ebc6a63b6ae34332b8f4595c79f225113e42112dff9a7cafd490f2e089a49402",
+    "bytes": 1527061
+  },
+  "tours/photos/historic-sri-lanka-journey-route-map-geographic.png": {
+    "sha256": "d53bb77c86b8d45eceee19a7fda6d5262f4ad798a531a0eb3f100341285669f5",
+    "bytes": 1528964
+  },
+  "tours/photos/into-sri-lankas-wild-route-map-geographic.png": {
+    "sha256": "16f9170231f924a382d8e3a69c00c1f1b664ffa8f24e1e0dcdf296b706ff9de8",
+    "bytes": 1789668
+  },
+  "tours/photos/island-highlights-escape-route-map-geographic.png": {
+    "sha256": "6231fefa085d9f9357b040493ae1ec791a2e6b819b896a06345f67f7b7313209",
+    "bytes": 1496538
+  },
+  "tours/photos/love-culture-adventure-route-map-geographic.png": {
+    "sha256": "eecc640d45f3c63328fcb01683db46558ffd4d99c90e45e82a5620314b4a254a",
+    "bytes": 1732665
+  },
+  "tours/photos/magical-sri-lanka-family-journey-route-map-geographic.png": {
+    "sha256": "c75eb92a103eee870357f908a60fa5751f00f51e5c907e3e473942f2f8fcd074",
+    "bytes": 1732357
+  },
+  "tours/photos/romantic-hills-heritage-retreat-route-map-geographic.png": {
+    "sha256": "6da88240a1448ce8ad5447b77db22a3500b7ccb2c9088f2720af5645840ebe6e",
+    "bytes": 1620304
+  },
+  "tours/photos/southern-adventure-explorer-route-map-geographic.png": {
+    "sha256": "5053c4450aefe41bd5be7f771e50397daf3f1f5317f758c4d87afef9d8f96064",
+    "bytes": 1563688
+  },
+  "tours/photos/southern-sands-journey-route-map-geographic.png": {
+    "sha256": "970a2da7d94f5a869c10729e092a2a3494ac90f33e0b1d09885ccb8edf0d98a3",
+    "bytes": 1612717
+  },
+  "tours/photos/sri-lanka-extended-discovery-route-map-geographic.png": {
+    "sha256": "a9eafcafc6683fb24aff1bcee7ed71f070dbe2817b9785e8d3e2ba00053a2489",
+    "bytes": 1497518
+  },
+  "tours/photos/sri-lanka-grand-circuit-route-map-geographic.png": {
+    "sha256": "554f90f4dead40f941e9fe7ea2decd660b55dfb9cedc230c275484970f4b2f33",
+    "bytes": 1497379
+  },
+  "tours/photos/sunrise-coast-circuit-route-map-geographic.png": {
+    "sha256": "640844ee1191fad99283f44dcf64fab0be6901e409b0611e5b88a1dc0145359a",
+    "bytes": 1695512
+  },
+  "tours/photos/ultimate-island-journey-route-map-geographic.png": {
+    "sha256": "6c917ee12976ca01b759af0d25d69160bbb4c641bfc27929e9327475cf63bafe",
+    "bytes": 1532222
+  },
+  "tours/photos/venture-further-sri-lanka-route-map-geographic.png": {
+    "sha256": "660e9d7e4ca07f3413dafa3b60bb9298bbd66535ec7c76a436b3dfa3a389d796",
+    "bytes": 1593218
+  },
+  "tours/photos/wild-sri-lanka-uncovered-route-map-geographic.png": {
+    "sha256": "705d8aa54af219df602233fbbfe1f6f1f932876b24b7d92519293fcff9ecd90e",
+    "bytes": 1705972
+  },
+  "tours/photos/wild-trails-discovery-route-map-geographic.png": {
+    "sha256": "84669222d6119749a49ab224bb0fe927acdb6a3ad6153aaaf8da99a9bd68d9eb",
+    "bytes": 1516386
+  },
+  "tours/route-map-art/anuradhapura.jpg": {
+    "sha256": "795a5a60a58502d770edbffae3a6b8c2a2978409af7c5666d0cd9d2ea95f3bf6",
+    "bytes": 108101
+  },
+  "tours/route-map-art/arugam-bay.jpg": {
+    "sha256": "87ff951890ea1fff0c84475577b7b9bfc5af06ac93119debd1489f393a8a2215",
+    "bytes": 12964
+  },
+  "tours/route-map-art/bentota.jpg": {
+    "sha256": "31099a2ccb6da9acdd2790e50156b29299ea0dd1a950dfcbefef0cba390519db",
+    "bytes": 115383
+  },
+  "tours/route-map-art/colombo.jpg": {
+    "sha256": "41c5fcc85b9904dbf37459bd001205ee2dc46475d7c5ee726c10e56077a9a476",
+    "bytes": 12738
+  },
+  "tours/route-map-art/dambulla.jpg": {
+    "sha256": "da8eb371bdd36801bcf4cefed4a375c5b6bcf7151fa90d062e0d7eb557f18aa6",
+    "bytes": 121452
+  },
+  "tours/route-map-art/ella.jpg": {
+    "sha256": "885b7e87303b4b37a32e4853cb4dad932e53828983f38b9dc61f80d246bcb5da",
+    "bytes": 138081
+  },
+  "tours/route-map-art/galle.jpg": {
+    "sha256": "9e8d069ae706e995e469fdd3682d30639f595fa23fdb1d3873a5fa22ea1b923a",
+    "bytes": 13896
+  },
+  "tours/route-map-art/habarana.jpg": {
+    "sha256": "a49757ed1a5dce12f6d3682b6f143c6bd228914c35d000ee345b063b99f099c3",
+    "bytes": 13163
+  },
+  "tours/route-map-art/hatton.jpg": {
+    "sha256": "89f97c4cd1588279f9fcba0c4260d497ec547da692b3572fe16dd1e8d41fc7e4",
+    "bytes": 124206
+  },
+  "tours/route-map-art/hikkaduwa.jpg": {
+    "sha256": "6386537de9501c8213db8777c269693fcdcfff842f17ef4f808ea7324a46c615",
+    "bytes": 107293
+  },
+  "tours/route-map-art/jaffna.jpg": {
+    "sha256": "50ad6e7995bdc6362343aa60d6aa8fc5b976321664371a1240e32e20ddaea4f2",
+    "bytes": 106654
+  },
+  "tours/route-map-art/kalpitiya.jpg": {
+    "sha256": "bf55f2dd12f52fcbdadae09c62c57301d46d73d7da9eee8d47176be7f4731b58",
+    "bytes": 90070
+  },
+  "tours/route-map-art/kandy.jpg": {
+    "sha256": "fb8f4fdb211150a7534b8dda41d7739eb980a50bd4f7190e99e4c39899a0ddea",
+    "bytes": 120459
+  },
+  "tours/route-map-art/kataragama.jpg": {
+    "sha256": "c1ce89aaddaafbafc1be012a8557cef0e96916af9d3f1d571e41d9060551d08b",
+    "bytes": 127075
+  },
+  "tours/route-map-art/mannar.jpg": {
+    "sha256": "76deb4fc992f171e0e431bd659734cf630848791662e4821edcddc35916f6190",
+    "bytes": 103128
+  },
+  "tours/route-map-art/mirissa.jpg": {
+    "sha256": "4abe8ddac828eedde0219b17ea2ca17637ae800200b8ae02f6ce4a68810a20bf",
+    "bytes": 110156
+  },
+  "tours/route-map-art/negombo.jpg": {
+    "sha256": "4f4e52b0787233c4f9611f28034a8ef0a72949b8d63c959e602736cbda80a533",
+    "bytes": 13827
+  },
+  "tours/route-map-art/nuwara-eliya.jpg": {
+    "sha256": "14caf5db671756b73c26bc1f33c1aae4296d4eacac593c554b2d00307930f9a5",
+    "bytes": 127526
+  },
+  "tours/route-map-art/ocean-wash.png": {
+    "sha256": "5c9e0fb636404d487012b41677e6e080e077d965e1a20a5dea34a5256201d63b",
+    "bytes": 1936265
+  },
+  "tours/route-map-art/pasikudah.jpg": {
+    "sha256": "800ad967d6dceb99a0790f2ae15c1d605e349260d3020b75c16c4d407d68efe9",
+    "bytes": 12406
+  },
+  "tours/route-map-art/scenic-atlas-1.png": {
+    "sha256": "bc1a78458f5283bd819526548e95b8af16e4f096288cadc8cf5ec6babc584308",
+    "bytes": 3526461
+  },
+  "tours/route-map-art/scenic-atlas-2.png": {
+    "sha256": "1cc127fb094c6299458969252c5e1654a9970142261debfe71f7e1c972d893e4",
+    "bytes": 3595823
+  },
+  "tours/route-map-art/sinharaja.jpg": {
+    "sha256": "fb229f6c0c89c56613b4cd51cea33dd5bb025b6da387a93b6f148e4eabf3c988",
+    "bytes": 144945
+  },
+  "tours/route-map-art/tangalle.jpg": {
+    "sha256": "d437dee5db77f3eb592a03ddbcfb250304c31415059a26e02b429f603fca0747",
+    "bytes": 93055
+  },
+  "tours/route-map-art/trincomalee.jpg": {
+    "sha256": "1d9f67adaeb2e16f3cad89d289c7c9b39d7e6e5c2661a44b3f29642df806ae7e",
+    "bytes": 14708
+  },
+  "tours/route-map-art/udawalawe.jpg": {
+    "sha256": "734c3cb66a85f8db4aed7b8b735754719855662d75854a112c3bdca2ac651c00",
+    "bytes": 105944
+  },
+  "tours/route-map-art/weligama.jpg": {
+    "sha256": "b352b32109cec60e7e3708469deafbe5dfbd84b98119cb6c7d2bc5f576a106b4",
+    "bytes": 95664
+  },
+  "tours/route-map-art/wilpattu.jpg": {
+    "sha256": "1b684a9de929f1672425bf2375ec44c469247ef3c97d36ea6c0ce798a85b24da",
+    "bytes": 125106
+  },
+  "tours/route-map-art/yala.jpg": {
+    "sha256": "a60d812faae4202916391688e69c8fa523b527fe11796f104fc62f507cbd0193",
+    "bytes": 14785
   }
 }

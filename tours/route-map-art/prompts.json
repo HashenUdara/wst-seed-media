@@ -1,0 +1,86 @@
+{
+  "method": "Built-in image generation; decorative artwork only. Geography drawn from coordinates separately.",
+  "prompts": [
+    "Use case: stylized-concept. Asset type: reusable watercolor ocean texture for a professional geographic travel map. Input image is style and palette reference ONLY. Create a clean portrait 1198:1313 abstract light-blue watercolor wash fading softly to pure white near all four edges. Match the approved reference's luminous pale turquoise and powder blue ocean pigments, restrained natural paper texture, elegant airy editorial feel. The wash is strongest in the central tall oval area and fades toward the margins. Absolutely NO island, land, coastline, outlines, maps, routes, markers, numbers, labels, compass, callout circles, mountains, waves, objects, logos, text or borders. This asset is decorative background only: an exact coordinate-drawn country and routes will be added separately in code. Flat overhead texture. Avoid cartoon look and excessive foam or wave details.",
+    "Use case: illustration-story. Asset type: a single scenic artwork sprite atlas for a consistent Sri Lanka tour map series. Input image is ONLY reference for the scenic circular callouts' polished watercolor-realistic painting style, colour, delicate detail, lighting and grown-up editorial travel feel. Create one square canvas in an EXACT 3-column by 3-row grid of nine equal square panels, full bleed edge-to-edge, with NO gutters, separators, borders, circles, labels, text, map shapes, numbers or logos. Each square is an independent softly realistic watercolor scenic vignette with the important subject centred to survive a circular crop. Do not fuse scenes across panel boundaries. Natural vivid but tasteful colours; no cartoon characters, no exaggerated fantasy architecture. Required panels in strict row-major order:\nRow 1, column 1: white hemispherical ancient stupa with pointed spire and green grounds in Anuradhapura.\nRow 1, column 2: Bentota tropical estuary, palms, beach and blue ocean.\nRow 1, column 3: rock-cave temple setting and serene Buddha statue at Dambulla.\nRow 2, column 1: Ella Nine Arch railway Bridge between green hills.\nRow 2, column 2: Hatton tea fields and misty hills.\nRow 2, column 3: Hikkaduwa tropical coast and turquoise clear shallow sea.\nRow 3, column 1: Jaffna Nallur Hindu temple facade and tower.\nRow 3, column 2: Kalpitiya quiet lagoon with fishing boats and sandy peninsula.\nRow 3, column 3: Kandy lake and Temple of the Tooth lakeside roofline.\nNine distinct scenes only. These are decorative illustrations, not geographic maps; no routes or place markers.",
+    "Use case: illustration-story. Asset type: a single scenic artwork sprite atlas for a consistent Sri Lanka tour map series. Input image is ONLY reference for the scenic circular callouts' polished watercolor-realistic painting style, colour, delicate detail, lighting and grown-up editorial travel feel. Create one square canvas in an EXACT 3-column by 3-row grid of nine equal square panels, full bleed edge-to-edge, with NO gutters, separators, borders, circles, labels, text, map shapes, numbers or logos. Each square is an independent softly realistic watercolor scenic vignette with the important subject centred to survive a circular crop. Do not fuse scenes across panel boundaries. Natural vivid but tasteful colours; no cartoon characters, no exaggerated fantasy architecture. Required panels in strict row-major order:\nRow 1, column 1: Kataragama low white temple buildings and sacred precinct.\nRow 1, column 2: Mannar northern island landscape, dry palms and calm lagoon.\nRow 1, column 3: Mirissa crescent beach with coconut palms and turquoise sea.\nRow 2, column 1: Nuwara Eliya lush tea gardens and softly misty hill country.\nRow 2, column 2: Sinharaja dense emerald tropical rainforest canopy.\nRow 2, column 3: Tangalle quiet sandy beach and coconut palms.\nRow 3, column 1: Udawalawe Asian elephant in open grassland.\nRow 3, column 2: Weligama sandy bay with small distant surfers.\nRow 3, column 3: Wilpattu Asian elephant near natural lake and dry evergreen woodland.\nNine distinct scenes only. These are decorative illustrations, not geographic maps; no routes or place markers."
+  ],
+  "atlas_order": [
+    [
+      {
+        "name": "Anuradhapura",
+        "scene": "white hemispherical ancient stupa with pointed spire and green grounds in Anuradhapura"
+      },
+      {
+        "name": "Bentota",
+        "scene": "Bentota tropical estuary, palms, beach and blue ocean"
+      },
+      {
+        "name": "Dambulla",
+        "scene": "rock-cave temple setting and serene Buddha statue at Dambulla"
+      },
+      {
+        "name": "Ella",
+        "scene": "Ella Nine Arch railway Bridge between green hills"
+      },
+      {
+        "name": "Hatton",
+        "scene": "Hatton tea fields and misty hills"
+      },
+      {
+        "name": "Hikkaduwa",
+        "scene": "Hikkaduwa tropical coast and turquoise clear shallow sea"
+      },
+      {
+        "name": "Jaffna",
+        "scene": "Jaffna Nallur Hindu temple facade and tower"
+      },
+      {
+        "name": "Kalpitiya",
+        "scene": "Kalpitiya quiet lagoon with fishing boats and sandy peninsula"
+      },
+      {
+        "name": "Kandy",
+        "scene": "Kandy lake and Temple of the Tooth lakeside roofline"
+      }
+    ],
+    [
+      {
+        "name": "Kataragama",
+        "scene": "Kataragama low white temple buildings and sacred precinct"
+      },
+      {
+        "name": "Mannar",
+        "scene": "Mannar northern island landscape, dry palms and calm lagoon"
+      },
+      {
+        "name": "Mirissa",
+        "scene": "Mirissa crescent beach with coconut palms and turquoise sea"
+      },
+      {
+        "name": "Nuwara Eliya",
+        "scene": "Nuwara Eliya lush tea gardens and softly misty hill country"
+      },
+      {
+        "name": "Sinharaja",
+        "scene": "Sinharaja dense emerald tropical rainforest canopy"
+      },
+      {
+        "name": "Tangalle",
+        "scene": "Tangalle quiet sandy beach and coconut palms"
+      },
+      {
+        "name": "Udawalawe",
+        "scene": "Udawalawe Asian elephant in open grassland"
+      },
+      {
+        "name": "Weligama",
+        "scene": "Weligama sandy bay with small distant surfers"
+      },
+      {
+        "name": "Wilpattu",
+        "scene": "Wilpattu Asian elephant near natural lake and dry evergreen woodland"
+      }
+    ]
+  ]
+}
