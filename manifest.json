@@ -998,5 +998,17 @@
   "tours/route-map-art/yala.jpg": {
     "sha256": "a60d812faae4202916391688e69c8fa523b527fe11796f104fc62f507cbd0193",
     "bytes": 14785
+  },
+  "long-stay/galle-coast-v1.webp": {
+    "sha256": "231887d83ed1b9c4397b49502a45276ea7176b0810cb67d8e67595f7f39d2b14",
+    "bytes": 323154
+  },
+  "long-stay/galle-street-v1.webp": {
+    "sha256": "b1519ab7f3c224cbb6dc94f0244dbe903ddc34df3c5fcd2dc4d070af7d338f31",
+    "bytes": 417782
+  },
+  "long-stay/galle-walk-v1.webp": {
+    "sha256": "204f11ba6a998431af90be65d0321dc5f5a814926fbed4a5a35dbc445f81d8ec",
+    "bytes": 333864
   }
 }
