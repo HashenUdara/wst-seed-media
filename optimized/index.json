@@ -1,0 +1,2036 @@
+{
+  "volunteer/art-materials.jpg": {
+    "path": "optimized/volunteer/art-materials-60e12a62d3f4.webp",
+    "sha256": "60e12a62d3f47298f47efe43f84eac677b24838edb774679e3e6b7416cec2867",
+    "bytes": 161418,
+    "source_sha256": "1258e4c5b0690279cf60ec715425579e5bce69be7ffd226c68661fe8eb654cea",
+    "width": 1536,
+    "height": 1024,
+    "lossless": false
+  },
+  "volunteer/art-program.jpg": {
+    "path": "optimized/volunteer/art-program-0f49a876da4a.webp",
+    "sha256": "0f49a876da4ac9704a2eecafb3095a44c0c1ec82ca0c6b2f925b2d3bb01290b1",
+    "bytes": 158038,
+    "source_sha256": "2e15fb4e96bd0045527cb12a49de32c19de2f2a182f00aad34af249a951e2677",
+    "width": 1536,
+    "height": 1024,
+    "lossless": false
+  },
+  "volunteer/coastal-cleanup.jpg": {
+    "path": "optimized/volunteer/coastal-cleanup-3ca7bb3a691c.webp",
+    "sha256": "3ca7bb3a691c139c94fde643157d4ab8121134e3a6a05d2d53cc0266f721dcb0",
+    "bytes": 56280,
+    "source_sha256": "521af826eff12c4ccc89568db88fd288ff9cb268810a87d45b48e4f8c7be6870",
+    "width": 900,
+    "height": 600,
+    "lossless": false
+  },
+  "volunteer/elderly-care-program.jpg": {
+    "path": "optimized/volunteer/elderly-care-program-3da10dfe1977.webp",
+    "sha256": "3da10dfe197702fa270304bdf8b4f1e2885be1b66f1b2816b29c0494712c288c",
+    "bytes": 47098,
+    "source_sha256": "a58835acd5f734d19bc4c59688bcb7bde0fa141959e66e19b4f257a424c7fa4f",
+    "width": 600,
+    "height": 400,
+    "lossless": false
+  },
+  "volunteer/english-classroom-group.jpg": {
+    "path": "optimized/volunteer/english-classroom-group-7a7f44ef7ec0.webp",
+    "sha256": "7a7f44ef7ec050a199c63696914205c2f08be5fef0e279fe642d6ff984b38ea5",
+    "bytes": 71422,
+    "source_sha256": "104a01083f7612fd88e1d6836390f68078c3b7a58aaa03b72d47eea94a82511f",
+    "width": 900,
+    "height": 600,
+    "lossless": false
+  },
+  "volunteer/english-teaching-program.jpg": {
+    "path": "optimized/volunteer/english-teaching-program-db167a404633.webp",
+    "sha256": "db167a4046334353963fd4e51504e5aaaf307e22909ba79cf2ff2d028f18df50",
+    "bytes": 106458,
+    "source_sha256": "c469a9420a2d700d88b7b41d4fba5d7fd298f875a772cea9ea33973a24589b3c",
+    "width": 1800,
+    "height": 1192,
+    "lossless": false
+  },
+  "volunteer/mobility-equipment.jpg": {
+    "path": "optimized/volunteer/mobility-equipment-1c0dc95d819e.webp",
+    "sha256": "1c0dc95d819e159df2069044cfd5b416b7bface270d12c12d4a3a3f94eea49ef",
+    "bytes": 157954,
+    "source_sha256": "8c7d575224ade898a7c5bab81470b35602eea0e4fde6347e66c697c650a1caa5",
+    "width": 1536,
+    "height": 1024,
+    "lossless": false
+  },
+  "volunteer/mobility-program.jpg": {
+    "path": "optimized/volunteer/mobility-program-89ab15d2c0a1.webp",
+    "sha256": "89ab15d2c0a18005d72c1e6c29bce483479e919d5552f467016767758573d9fd",
+    "bytes": 185280,
+    "source_sha256": "154b57c88990f22532716a39a1c13f324f218848512b1aa1462847c510a4aed2",
+    "width": 1536,
+    "height": 1024,
+    "lossless": false
+  },
+  "volunteer/monks-classroom-lesson.jpg": {
+    "path": "optimized/volunteer/monks-classroom-lesson-2943ac1fa976.webp",
+    "sha256": "2943ac1fa976254b8e0e4ab8bbae5bf765f49e932d8e7ef63afe2d30df52e00d",
+    "bytes": 90160,
+    "source_sha256": "936af7aeb086af88834b8b33ab21481f7f61bff1da13ac75b852fc458c009730",
+    "width": 1280,
+    "height": 853,
+    "lossless": false
+  },
+  "volunteer/monks-english-program.jpg": {
+    "path": "optimized/volunteer/monks-english-program-60cf0cd7c27c.webp",
+    "sha256": "60cf0cd7c27cfc4b6961165489b8b34994ffa593b003bfeb0bed048d3f2175ea",
+    "bytes": 59618,
+    "source_sha256": "3ad6191fe00a66e437fb5ba6f72f78c69d0465edcb5f9f482e37f7eeff768341",
+    "width": 1280,
+    "height": 853,
+    "lossless": false
+  },
+  "volunteer/monks-one-to-one-lesson.jpg": {
+    "path": "optimized/volunteer/monks-one-to-one-lesson-655efb3f940d.webp",
+    "sha256": "655efb3f940db0dca24979e96ea83bb50fa723785b8a26180953e579edbbfa41",
+    "bytes": 71186,
+    "source_sha256": "601d684d683a94d294311e2ea94303b68a8044b74822e799a2a37901a90e5a0b",
+    "width": 1280,
+    "height": 853,
+    "lossless": false
+  },
+  "volunteer/preschool-art-activity.jpg": {
+    "path": "optimized/volunteer/preschool-art-activity-36a9baf4f08c.webp",
+    "sha256": "36a9baf4f08ca439bdc464b4b9365a7f36c8a018f96e06d2e33229fbdfd8604d",
+    "bytes": 72352,
+    "source_sha256": "a7c407d0ac0a245f4abefdbca4c5ac1e0e80db85496f9ee1366fc2a12a4a1999",
+    "width": 900,
+    "height": 600,
+    "lossless": false
+  },
+  "volunteer/preschool-program.jpg": {
+    "path": "optimized/volunteer/preschool-program-f60857585394.webp",
+    "sha256": "f608575853945c1e49abd9cc92208329cc670c52f8878c239022eb8b79368907",
+    "bytes": 111674,
+    "source_sha256": "25747f3262862ebde25f9b0bc90ed4888104cea8a0ad2ad7200a36b71e63b703",
+    "width": 1480,
+    "height": 1004,
+    "lossless": false
+  },
+  "volunteer/turtle-conservation-program.jpg": {
+    "path": "optimized/volunteer/turtle-conservation-program-ff92be94da96.webp",
+    "sha256": "ff92be94da965aaa7e081d060ea4e4d2602b89e06153d25ea47622890a2b076e",
+    "bytes": 70546,
+    "source_sha256": "adb5aeb4d82c50d0889de26c2abd5aa342369bd469c916a849cb471be6ff4f0a",
+    "width": 800,
+    "height": 533,
+    "lossless": false
+  },
+  "volunteer/turtle-hatchling-beach.jpg": {
+    "path": "optimized/volunteer/turtle-hatchling-beach-40e99f0dac11.webp",
+    "sha256": "40e99f0dac1166644444f9f07c175344ccf2c1348feaf27d28288ddc3b27f1c0",
+    "bytes": 76582,
+    "source_sha256": "93973bc99e3497bb8b5ed75ed78af193ebc792de51cd2f9c8002d0de6c1cf3b6",
+    "width": 900,
+    "height": 600,
+    "lossless": false
+  },
+  "volunteer/volunteer-house-meal.jpg": {
+    "path": "optimized/volunteer/volunteer-house-meal-6f6d0c5fea80.webp",
+    "sha256": "6f6d0c5fea801d93707565b84971db85691e24202dfdc1a23724fc264fa1f63a",
+    "bytes": 64732,
+    "source_sha256": "21fb2fb7e10f3eeda4392dc705fc3ae281b99a1dbc5a4a56cf23071648124f1d",
+    "width": 900,
+    "height": 600,
+    "lossless": false
+  },
+  "volunteer/volunteer-school-group.jpg": {
+    "path": "optimized/volunteer/volunteer-school-group-7dbdcedfe6e0.webp",
+    "sha256": "7dbdcedfe6e007b7f83966140d45823e5564a82f71f68f95acb9bf650d30b190",
+    "bytes": 89254,
+    "source_sha256": "eb69f70b01c40665de1637da5894371a9f3943e02937fb6b5898b0324288e528",
+    "width": 900,
+    "height": 600,
+    "lossless": false
+  },
+  "guide/photos/2025-09-1941_banner_20.jpg": {
+    "path": "optimized/guide/photos/2025-09-1941_banner_20-0c4ab06374fe.webp",
+    "sha256": "0c4ab06374fe5139490f91b546a54a7ec479aeef1983a6596654452c39ff41c0",
+    "bytes": 133904,
+    "source_sha256": "fcaf0f78f4321a16e0610669c242e1546c4242d2b1a127cf47491ee4b9965a92",
+    "width": 1920,
+    "height": 1281,
+    "lossless": false
+  },
+  "guide/photos/2025-09-1944_banner_9-1.jpg": {
+    "path": "optimized/guide/photos/2025-09-1944_banner_9-1-319f4289e82b.webp",
+    "sha256": "319f4289e82bd8c5c9ded5e4ebb6513cf1ecfa0052c485c706c5e17cfba6e8c4",
+    "bytes": 401908,
+    "source_sha256": "4a54e2bbe5a3a856883aade48cca428c554cebb460959716f34a4438580e881b",
+    "width": 1920,
+    "height": 1282,
+    "lossless": false
+  },
+  "guide/photos/2025-09-1945_banner_8-1.jpg": {
+    "path": "optimized/guide/photos/2025-09-1945_banner_8-1-09a80229c20b.webp",
+    "sha256": "09a80229c20b4757522730b88105551466ecff525628a1403577a5a516c21a3d",
+    "bytes": 241818,
+    "source_sha256": "410bfcae1d412905d355658f76dad95d8e3e2a777a5652ec4d5f8dfd653fd8a7",
+    "width": 1920,
+    "height": 1280,
+    "lossless": false
+  },
+  "guide/photos/2025-09-1950_banner_59.jpg": {
+    "path": "optimized/guide/photos/2025-09-1950_banner_59-8efbba75e5c5.webp",
+    "sha256": "8efbba75e5c504a6e80aea2a9a7b98b244233406dff4d3d23b333daa7420307f",
+    "bytes": 332106,
+    "source_sha256": "27a29355ba283efc4abbae7fa95fd0cbce40b88365d7a3261facdada9c26066f",
+    "width": 1600,
+    "height": 1200,
+    "lossless": false
+  },
+  "guide/photos/2025-09-1953_banner_40.jpg": {
+    "path": "optimized/guide/photos/2025-09-1953_banner_40-6a39b1515916.webp",
+    "sha256": "6a39b15159169349849292d9aea43f12d754d763ad23d1f0e24612478387d613",
+    "bytes": 469122,
+    "source_sha256": "6253ad8de3a895207a95786fd2116e90b2d401fc66aa35df94dc194ae5fbff19",
+    "width": 1920,
+    "height": 1081,
+    "lossless": false
+  },
+  "guide/photos/2025-09-1960_banner_28.jpg": {
+    "path": "optimized/guide/photos/2025-09-1960_banner_28-690287044215.webp",
+    "sha256": "6902870442151b98ea4b1a95a6d0c577951959e537c24359e6d9854677febdbe",
+    "bytes": 242852,
+    "source_sha256": "37b236611cbcdbba24de5de40a86d843bf1f598337c009d0004af535d05b0aef",
+    "width": 1595,
+    "height": 1080,
+    "lossless": false
+  },
+  "guide/photos/2025-09-1974_banner_5.jpg": {
+    "path": "optimized/guide/photos/2025-09-1974_banner_5-55513a5181de.webp",
+    "sha256": "55513a5181debfa5ca85e76a8901e1c0ca406a3575dde17c792d4b86e94ce508",
+    "bytes": 232298,
+    "source_sha256": "7d989a1fa71e38bb22c417cade2b7f0a4a533e2fff9ccac0643468ad899b7f87",
+    "width": 1920,
+    "height": 1275,
+    "lossless": false
+  },
+  "guide/photos/2025-09-1975_banner_11.jpg": {
+    "path": "optimized/guide/photos/2025-09-1975_banner_11-92fe259ef277.webp",
+    "sha256": "92fe259ef27796efe96ce3924c56044004a4a01b8d27167998da22f4a045aed5",
+    "bytes": 273972,
+    "source_sha256": "88e9007d1c4bd9131aa9326c63d4ab168635532458a31d01d475a06a6e26e636",
+    "width": 1630,
+    "height": 1080,
+    "lossless": false
+  },
+  "guide/photos/2025-09-1977_banner_10.jpg": {
+    "path": "optimized/guide/photos/2025-09-1977_banner_10-ba777c102206.webp",
+    "sha256": "ba777c1022067973a70ec4c50457acba419742c92395d551f69b903d9780f45c",
+    "bytes": 146578,
+    "source_sha256": "daebd0c5cbe4ccb10eb719739079c22167b7da72796d391470929506db6b5ce9",
+    "width": 1246,
+    "height": 1080,
+    "lossless": false
+  },
+  "guide/photos/2025-09-1980_banner_1-1.jpg": {
+    "path": "optimized/guide/photos/2025-09-1980_banner_1-1-ce6ecd592edf.webp",
+    "sha256": "ce6ecd592edfe5033b5d68c46524b103d25929fe4585e74f00aeb2e45df9ad5b",
+    "bytes": 375422,
+    "source_sha256": "51df0937b3db73ee44d7297e75a62600115c68bb560adb19510abbbf41710185",
+    "width": 1920,
+    "height": 1275,
+    "lossless": false
+  },
+  "guide/photos/2025-09-1991_banner_33.jpg": {
+    "path": "optimized/guide/photos/2025-09-1991_banner_33-27d49d407edb.webp",
+    "sha256": "27d49d407edb5519216a628ae75cecf499b76f3478421c558fe1ccb3454854ca",
+    "bytes": 316578,
+    "source_sha256": "e80de4bea31a873d4f28b33d034b110b72c3b85fa68ea6914ac8966f18894e12",
+    "width": 1620,
+    "height": 1080,
+    "lossless": false
+  },
+  "guide/photos/2025-09-2-1.jpg": {
+    "path": "optimized/guide/photos/2025-09-2-1-26199413092d.webp",
+    "sha256": "26199413092db54fe53d0d0b9e20ab1fcc47954c124e3a064b02cc0908dde596",
+    "bytes": 115150,
+    "source_sha256": "462fab28a8dad662b2371ebcf0f90ab1ded6a304300271b3b468fd629f83a430",
+    "width": 802,
+    "height": 540,
+    "lossless": false
+  },
+  "guide/photos/2025-09-2009_banner_25.jpg": {
+    "path": "optimized/guide/photos/2025-09-2009_banner_25-c0db7a51ea57.webp",
+    "sha256": "c0db7a51ea574f5c8be7df70ddea21e4af300b9316d56f23ea00a06d2f59e891",
+    "bytes": 557310,
+    "source_sha256": "148c718954794aaf2ea5abe2a657f853aaa865468478fe02b275a460fd29db6b",
+    "width": 1920,
+    "height": 1280,
+    "lossless": false
+  },
+  "guide/photos/2025-09-2015_banner_18-1.jpg": {
+    "path": "optimized/guide/photos/2025-09-2015_banner_18-1-57adc82ed934.webp",
+    "sha256": "57adc82ed934ef301f064e29ffab2319330a275d73d9b2cb05e7dc2b534a7874",
+    "bytes": 234632,
+    "source_sha256": "eaaab0c2feb40149658ade06c9dcdcdbf367e3889a1d700ee7032c26082a602d",
+    "width": 1920,
+    "height": 1282,
+    "lossless": false
+  },
+  "guide/photos/2025-09-2016_banner_30.jpg": {
+    "path": "optimized/guide/photos/2025-09-2016_banner_30-0b5b0b8f2ecb.webp",
+    "sha256": "0b5b0b8f2ecb2e60c2a17013689c02cd854d8349b51a28b970998923253583de",
+    "bytes": 515810,
+    "source_sha256": "3583d02ba402ae3badb668a924bae295c6328f5ae2c8d8bab012ffb9f1d94eed",
+    "width": 1282,
+    "height": 1920,
+    "lossless": false
+  },
+  "guide/photos/2025-09-CFW.png": {
+    "path": "optimized/guide/photos/2025-09-CFW-94aba7c9a930.webp",
+    "sha256": "94aba7c9a9308056d22b0acfbe59b0b15a1738bb66f3d957946d8a2b97c271fb",
+    "bytes": 1650386,
+    "source_sha256": "ccda148f37322ddceab03b3da1a0ad8bb70ead8f3f9ffc44df88f559df65a495",
+    "width": 1536,
+    "height": 1024,
+    "lossless": true
+  },
+  "guide/photos/2025-09-Christmas-scaled.jpg": {
+    "path": "optimized/guide/photos/2025-09-Christmas-scaled-e6f1875d2821.webp",
+    "sha256": "e6f1875d28213cf976fe8f4fac817270d44bbc5cf85ce8a5fab9648d1bee436c",
+    "bytes": 199172,
+    "source_sha256": "c6305bb919bf3c41606d31971ba0f11db9c9698559754adee5641b9df79dee35",
+    "width": 1920,
+    "height": 1280,
+    "lossless": false
+  },
+  "guide/photos/2025-09-Diwali-scaled.jpg": {
+    "path": "optimized/guide/photos/2025-09-Diwali-scaled-3fd9ed29f92c.webp",
+    "sha256": "3fd9ed29f92cb0c3300308df143dc615df57994e8c0e9ce0813b935ccf45ef04",
+    "bytes": 205578,
+    "source_sha256": "854110695f0ad05d1b416903b800a54341004875b5558ba04653ff78285d640d",
+    "width": 1920,
+    "height": 1280,
+    "lossless": false
+  },
+  "guide/photos/2025-09-Galle-Fort-2.jpg": {
+    "path": "optimized/guide/photos/2025-09-Galle-Fort-2-4c539a7c29e3.webp",
+    "sha256": "4c539a7c29e305313bddd75d151085a6ef48663a6b21f9e306422a3c648c2f02",
+    "bytes": 151548,
+    "source_sha256": "3cbcf56dddca0b41938c9791511e7242cc0efd6de7263a31b16fe7349cdaaa5c",
+    "width": 1620,
+    "height": 1080,
+    "lossless": false
+  },
+  "guide/photos/2025-09-Golf.jpg": {
+    "path": "optimized/guide/photos/2025-09-Golf-7335276f7794.webp",
+    "sha256": "7335276f77943cc485f32e245473792f12c93abca28da9a35b165f9408a4d589",
+    "bytes": 56994,
+    "source_sha256": "08f682a5e7addf93516da28ab4ad1f2f05a482922e8719db8ce465582c242d0d",
+    "width": 1620,
+    "height": 1080,
+    "lossless": false
+  },
+  "guide/photos/2025-09-Kandy-01.jpg": {
+    "path": "optimized/guide/photos/2025-09-Kandy-01-9d037991b0b0.webp",
+    "sha256": "9d037991b0b04d7f51b484824333168c5d6d4043f1f270e341810e6b79905446",
+    "bytes": 206764,
+    "source_sha256": "f199b6670588965f387c1184df752cf395d3e07e573b436b8a20cfa30f59cd09",
+    "width": 1920,
+    "height": 991,
+    "lossless": false
+  },
+  "guide/photos/2025-09-LPL-scaled.jpg": {
+    "path": "optimized/guide/photos/2025-09-LPL-scaled-d9a0c67de608.webp",
+    "sha256": "d9a0c67de608eb374d03888ba587abeb3c9d89f0480c4f6165d9f1314d546c25",
+    "bytes": 95422,
+    "source_sha256": "6f855657b2ab13b3b7be93cc2f89728aee698606b7f07ff712b976cc2ce2dfdc",
+    "width": 1920,
+    "height": 1280,
+    "lossless": false
+  },
+  "guide/photos/2025-09-Nallur.jpg": {
+    "path": "optimized/guide/photos/2025-09-Nallur-a7e19c020159.webp",
+    "sha256": "a7e19c020159b23f9e7728ffd1747925d46f376da9daba6888681cad31802774",
+    "bytes": 233756,
+    "source_sha256": "e33f6a421ee9c3e3c7f17ed2e21109d89c7917f53f7693c736d1e9d962f7e4c6",
+    "width": 1920,
+    "height": 1282,
+    "lossless": false
+  },
+  "guide/photos/2025-09-Poson-scaled.jpg": {
+    "path": "optimized/guide/photos/2025-09-Poson-scaled-47db846fac9a.webp",
+    "sha256": "47db846fac9a027db0b25050cb1bde003b68e86fb39231dfe262cba77a4affe3",
+    "bytes": 48660,
+    "source_sha256": "989b215b58f8d5e256e07ed72e7e4b2a0ec18dd5d53789eebffdf8680f6869ad",
+    "width": 1920,
+    "height": 1080,
+    "lossless": false
+  },
+  "guide/photos/2025-09-Romantic-01-scaled.jpg": {
+    "path": "optimized/guide/photos/2025-09-Romantic-01-scaled-6f7471c93579.webp",
+    "sha256": "6f7471c935794081b645cae40b15442c7d3af4b5708cc4b0917783e60f06523c",
+    "bytes": 381950,
+    "source_sha256": "57860d108f990c5395a3314fbac948d70b632ab053e406cb81192c08242ebc1f",
+    "width": 1920,
+    "height": 1282,
+    "lossless": false
+  },
+  "guide/photos/2025-09-Unawatuna-Beach-scaled.jpg": {
+    "path": "optimized/guide/photos/2025-09-Unawatuna-Beach-scaled-e56a1d176808.webp",
+    "sha256": "e56a1d1768080a0e449c884ba6028d8d884fcbbb50cc6627aad7b90c742e8fa6",
+    "bytes": 552978,
+    "source_sha256": "1f836cebf40f5e81cd33c63a1cffe8459c40905d38f6e6406bade2b46c8d171d",
+    "width": 1920,
+    "height": 1079,
+    "lossless": false
+  },
+  "guide/photos/2025-09-Vesak-scaled.jpg": {
+    "path": "optimized/guide/photos/2025-09-Vesak-scaled-e538874d41d1.webp",
+    "sha256": "e538874d41d1b93b74462340a66b16cd558575b9674bddb769e60cd8b0f12387",
+    "bytes": 402212,
+    "source_sha256": "37a8a7f833bf93a21e24c461ccef79c4411a70fd11d66f146481518630207d10",
+    "width": 1920,
+    "height": 1271,
+    "lossless": false
+  },
+  "guide/photos/2025-09-Wildlife-02.jpg": {
+    "path": "optimized/guide/photos/2025-09-Wildlife-02-904794c4455e.webp",
+    "sha256": "904794c4455e1b8aee9ef1feeb89c30338837a498237ce469edff458719eeac1",
+    "bytes": 337960,
+    "source_sha256": "ed37623bd54a4d15312e02de14b5095e82cbd8bbac3d3064f63899a4947ef725",
+    "width": 1794,
+    "height": 1080,
+    "lossless": false
+  },
+  "guide/photos/2025-09-bird-watchingq.jpg": {
+    "path": "optimized/guide/photos/2025-09-bird-watchingq-c4d12c68b520.webp",
+    "sha256": "c4d12c68b520fcf3d7affcf39342269f92ac54240a63242384e3fd064851a39d",
+    "bytes": 171600,
+    "source_sha256": "6024fd5a863fa6431ad28cf9ca0857bd610089b0633f74ed2beab9bf75071c89",
+    "width": 1620,
+    "height": 1080,
+    "lossless": false
+  },
+  "guide/photos/2025-09-coral-reef.jpg": {
+    "path": "optimized/guide/photos/2025-09-coral-reef-761be0f02123.webp",
+    "sha256": "761be0f0212337b6cd93067b7f347b61e234a9b58eb68dc1920d3ed264cceed3",
+    "bytes": 242068,
+    "source_sha256": "4b3615dda0e29813dbe34dda813add0536fbd0eefd3d405c261d5fb4f4697eab",
+    "width": 1619,
+    "height": 1080,
+    "lossless": false
+  },
+  "guide/photos/2025-09-galle.jpg": {
+    "path": "optimized/guide/photos/2025-09-galle-a320a79cdee3.webp",
+    "sha256": "a320a79cdee3ab0bc22888706a8e0ba4e1fb8c9c00f3229ce52b1e2a7d172b97",
+    "bytes": 186446,
+    "source_sha256": "3700e0091efadbb18fae35d21b370e819fe68ab47c0093ae44946e14e8b08861",
+    "width": 1280,
+    "height": 870,
+    "lossless": false
+  },
+  "guide/photos/2025-09-habarana-1.jpg": {
+    "path": "optimized/guide/photos/2025-09-habarana-1-15a80a84be88.webp",
+    "sha256": "15a80a84be88e1bddc372c130f91bd2de1958ffdf84ff464f78728fceba41dc0",
+    "bytes": 176252,
+    "source_sha256": "6d76918987f1ab55e1aa9a204446465bf4b98798fc8777743b55a9f92117c86b",
+    "width": 1620,
+    "height": 1080,
+    "lossless": false
+  },
+  "guide/photos/2025-09-hakgala.jpg": {
+    "path": "optimized/guide/photos/2025-09-hakgala-85813f7e5f89.webp",
+    "sha256": "85813f7e5f897e0ee778d1d029786ec4e5408a03728b1da47b8af62ec82c4919",
+    "bytes": 447426,
+    "source_sha256": "39f45462b310bb6f031ed7f9920f115c5c0e56e2e3b97c4ec870976d32a1d810",
+    "width": 1920,
+    "height": 1280,
+    "lossless": false
+  },
+  "guide/photos/2025-09-hikkaduwa-banner.jpg": {
+    "path": "optimized/guide/photos/2025-09-hikkaduwa-banner-cfcaeeb74610.webp",
+    "sha256": "cfcaeeb74610b8470d70a3f5d8aeb28047f719c3cd65229e645b5803e15824d6",
+    "bytes": 345926,
+    "source_sha256": "d50045039b1ff9e7aca07d21ae9a0df9dcf99a3d66fd2f9cb3eabfc546bc1c49",
+    "width": 1622,
+    "height": 1080,
+    "lossless": false
+  },
+  "guide/photos/2025-09-jaffna-public-library.jpg": {
+    "path": "optimized/guide/photos/2025-09-jaffna-public-library-bf84fe944e0c.webp",
+    "sha256": "bf84fe944e0c024a47e4e0d4e054e51195799cdcc7d1b9fa88ad914a9e55557d",
+    "bytes": 228640,
+    "source_sha256": "2440e5304ce9fde0c7cb33f74404cd78bf2da44167f53c2a114078447fd789e2",
+    "width": 1920,
+    "height": 1282,
+    "lossless": false
+  },
+  "guide/photos/2025-09-kalpitiya-banner.jpg": {
+    "path": "optimized/guide/photos/2025-09-kalpitiya-banner-dc55fc73f9ab.webp",
+    "sha256": "dc55fc73f9abf8c764a8cd522f0771590932d2f2d92907a3c96145e900252526",
+    "bytes": 183808,
+    "source_sha256": "80e0c5ff415ec1c3a5b721d374115052f0d58bb8ed7b1a8e2d5dee044c756d97",
+    "width": 1620,
+    "height": 1080,
+    "lossless": false
+  },
+  "guide/photos/2025-09-kudulla.jpg": {
+    "path": "optimized/guide/photos/2025-09-kudulla-76758bce23be.webp",
+    "sha256": "76758bce23beb1a56101b8cfe908230f94a46946ff4bba1bf478f369b5218657",
+    "bytes": 160196,
+    "source_sha256": "9fea837aa15dddf12c6effe2975305edce32ab878f8c622a5b9adc102b1d157a",
+    "width": 1920,
+    "height": 1280,
+    "lossless": false
+  },
+  "guide/photos/2025-09-mirissa-1-scaled.jpg": {
+    "path": "optimized/guide/photos/2025-09-mirissa-1-scaled-bdac7e41e2b0.webp",
+    "sha256": "bdac7e41e2b039b54abe00e670980b4570287bec1fadfcac0954b1df432888e7",
+    "bytes": 508966,
+    "source_sha256": "c62e4dc37c0f09ebc13c40da974021862bb0fc6fc55982c5fb336f0874da3111",
+    "width": 1920,
+    "height": 1279,
+    "lossless": false
+  },
+  "guide/photos/2025-09-pettigala.jpg": {
+    "path": "optimized/guide/photos/2025-09-pettigala-3e28989210b5.webp",
+    "sha256": "3e28989210b5d6dfa2b3c1b68c8a3fcbc87159ff8bbbca52061e76b3a7715639",
+    "bytes": 568842,
+    "source_sha256": "ad352f27b8aa44715f06dc2004e805ad4054b62f386e4c54c6c422e8544f2527",
+    "width": 1920,
+    "height": 1283,
+    "lossless": false
+  },
+  "guide/photos/2025-09-pilgrimmage-hike.jpg": {
+    "path": "optimized/guide/photos/2025-09-pilgrimmage-hike-83fd25ba1a14.webp",
+    "sha256": "83fd25ba1a148169f115cb764f313404631d820d8c91dd479694b5f7310e0097",
+    "bytes": 252210,
+    "source_sha256": "d03ff766ef50356cc8f49811688b0bf7687d5133b1ae9f44394d86b2a70b4a82",
+    "width": 1920,
+    "height": 1282,
+    "lossless": false
+  },
+  "guide/photos/2025-09-point-pedro.jpg": {
+    "path": "optimized/guide/photos/2025-09-point-pedro-16efec438cc5.webp",
+    "sha256": "16efec438cc58a7d3cd5c5b85de3016c6d7bc751fc7c72995ca010deb5186478",
+    "bytes": 127428,
+    "source_sha256": "f082b4a0147d8daac1e2e4898c72a9e819bfa353a4df554a25ad4ba87e5efdfe",
+    "width": 1920,
+    "height": 1280,
+    "lossless": false
+  },
+  "guide/photos/2025-09-polonnaruwa-ruins-scaled.jpg": {
+    "path": "optimized/guide/photos/2025-09-polonnaruwa-ruins-scaled-080c3ff7262f.webp",
+    "sha256": "080c3ff7262ff1f64562518f6c7a670deff07b7c541eef60964a907a5de3e148",
+    "bytes": 445892,
+    "source_sha256": "73d21629a39fcab7afe673693153b92bf975fe456b3642327c3adb1db98a57ff",
+    "width": 1920,
+    "height": 1080,
+    "lossless": false
+  },
+  "guide/photos/2025-09-turtle-hatch.jpg": {
+    "path": "optimized/guide/photos/2025-09-turtle-hatch-bf33ccad6a8c.webp",
+    "sha256": "bf33ccad6a8cdbf3bcc28bdf61caa9c9dbd929a89c38e606b75bd2ecae562d46",
+    "bytes": 224640,
+    "source_sha256": "1f3c6cb1d19a91adedff1e4e9f20324d4ce31a0febe72882af1f103e3840fc29",
+    "width": 1920,
+    "height": 1280,
+    "lossless": false
+  },
+  "guide/photos/2025-09-udawalawa.jpg": {
+    "path": "optimized/guide/photos/2025-09-udawalawa-27d49d407edb.webp",
+    "sha256": "27d49d407edb5519216a628ae75cecf499b76f3478421c558fe1ccb3454854ca",
+    "bytes": 316578,
+    "source_sha256": "e80de4bea31a873d4f28b33d034b110b72c3b85fa68ea6914ac8966f18894e12",
+    "width": 1620,
+    "height": 1080,
+    "lossless": false
+  },
+  "guide/photos/2025-09-wildlife_srilanka_37.jpg": {
+    "path": "optimized/guide/photos/2025-09-wildlife_srilanka_37-f43b931b2e4d.webp",
+    "sha256": "f43b931b2e4df10cb4d5f0579926b440f1fa37443683e5c9e02e047a2f9c7493",
+    "bytes": 42792,
+    "source_sha256": "0b266939841b6d5774abd665125b996567c9d69691c5a045ce4c4fbef1409783",
+    "width": 800,
+    "height": 600,
+    "lossless": false
+  },
+  "guide/photos/2025-09-willpattu-banner-scaled.jpg": {
+    "path": "optimized/guide/photos/2025-09-willpattu-banner-scaled-628b8b7adf1b.webp",
+    "sha256": "628b8b7adf1b6893bc1c8e3628e0d483a59a72274ac2a448333dd740866c3957",
+    "bytes": 223556,
+    "source_sha256": "75e8dce93b26996942ab9cc649200a14ea5098a7021a8cd4717db23ad6feb467",
+    "width": 1920,
+    "height": 1275,
+    "lossless": false
+  },
+  "guide/photos/2025-09-yala-1.jpg": {
+    "path": "optimized/guide/photos/2025-09-yala-1-6a0f4bc9d907.webp",
+    "sha256": "6a0f4bc9d90780046d286836b08d6f5f441d37e53db9f39c149f3fa30682b96b",
+    "bytes": 119680,
+    "source_sha256": "7f8d38fe93ba0aff1416624811942b5b6647739285d5caa6de34629e612ad9a2",
+    "width": 1620,
+    "height": 1080,
+    "lossless": false
+  },
+  "guide/photos/2026-01-BTI30032-e1768366829861.jpg": {
+    "path": "optimized/guide/photos/2026-01-BTI30032-e1768366829861-75efb5c22757.webp",
+    "sha256": "75efb5c22757ca276e479754a8b1478ba6faa507358b5f44d77ac8ec85d016e9",
+    "bytes": 359204,
+    "source_sha256": "b69360733d42a954f5d49a277e09d816c65c9a91bd2c5a7e49b088e1cc1b6cc2",
+    "width": 1920,
+    "height": 1014,
+    "lossless": false
+  },
+  "guide/photos/2026-01-BTI40086-e1768377139164.jpg": {
+    "path": "optimized/guide/photos/2026-01-BTI40086-e1768377139164-11ab8504058c.webp",
+    "sha256": "11ab8504058c55529d0a9e06697e8b5055d46b5fdffcb59539813a87b2c7b3b8",
+    "bytes": 228788,
+    "source_sha256": "b62fa0040a1a9b928ba4581ce6c97fa38d4e87d50fb91462213a3743e935a173",
+    "width": 1920,
+    "height": 1142,
+    "lossless": false
+  },
+  "guide/photos/2026-01-independance-day.jpg": {
+    "path": "optimized/guide/photos/2026-01-independance-day-ac7ea127647a.webp",
+    "sha256": "ac7ea127647a2a2e6ea302266b9211eeb1aecd009e34f29d57be84fdd668af8e",
+    "bytes": 37420,
+    "source_sha256": "99eaaa33944fba1930a86907b03622e393732ce2d5f60645f4604bfc1c32b893",
+    "width": 770,
+    "height": 489,
+    "lossless": false
+  },
+  "guide/photos/2026-01-sinhala-and-tamil-new-year.png": {
+    "path": "optimized/guide/photos/2026-01-sinhala-and-tamil-new-year-bb98954695b5.webp",
+    "sha256": "bb98954695b5cee5d29e27c4c4ae5298fbaf760ba692b5e6ebd1b9a2d1a249a5",
+    "bytes": 917358,
+    "source_sha256": "a930ccdf6d40361a5b95be614180be3c8f5929abc4355fd557ed2d89c058c917",
+    "width": 1024,
+    "height": 1024,
+    "lossless": true
+  },
+  "guide/photos/2026-10-guide-attractions-hero-v1.webp": {
+    "path": "optimized/guide/photos/2026-10-guide-attractions-hero-v1-2c6ca53ea3a8.webp",
+    "sha256": "2c6ca53ea3a8873c90dc30d836e4a470694b701a565d19ffcefc161b38915f6d",
+    "bytes": 413014,
+    "source_sha256": "d5b02075beca298a7476db2f927b01843b5cc3ba84cef99e037a1bab31183a7b",
+    "width": 1672,
+    "height": 941,
+    "lossless": false
+  },
+  "guide/photos/2026-10-guide-destinations-hero-v1.webp": {
+    "path": "optimized/guide/photos/2026-10-guide-destinations-hero-v1-0b99610f253f.webp",
+    "sha256": "0b99610f253fd6628dd6ab4923508ce10405e5a530c705a493eabbedcbc31f3d",
+    "bytes": 284906,
+    "source_sha256": "2ba227d592ce505da0869e67a55de818803152d7bdd7fa4fde995f9b1c7611f6",
+    "width": 1672,
+    "height": 941,
+    "lossless": false
+  },
+  "guide/photos/2026-10-guide-events-hero-v1.webp": {
+    "path": "optimized/guide/photos/2026-10-guide-events-hero-v1-f0ddf3376a12.webp",
+    "sha256": "f0ddf3376a122c3ea919b7d4a2c2f36b69ac07e13373e253ad011888b1cde69a",
+    "bytes": 177570,
+    "source_sha256": "eecdf48852319a3f6d1477817c1fc609175300fd12131fd413bd55aa21a7abf3",
+    "width": 1672,
+    "height": 941,
+    "lossless": false
+  },
+  "guide/photos/2026-10-guide-faq-hero-v1.webp": {
+    "path": "optimized/guide/photos/2026-10-guide-faq-hero-v1-d9525b153e31.webp",
+    "sha256": "d9525b153e315319365fd7a17a10f0c34a4b36acd85601d39235b52a626d1ede",
+    "bytes": 154060,
+    "source_sha256": "231b4485730e0c2d1cfd720bfeeb3d371af77477ad6bd66c5ffa43aba2746cd2",
+    "width": 1672,
+    "height": 941,
+    "lossless": false
+  },
+  "guide/photos/2026-10-guide-overview-hero-v1.webp": {
+    "path": "optimized/guide/photos/2026-10-guide-overview-hero-v1-26b203225888.webp",
+    "sha256": "26b20322588888dc1c4f688ed1de1a568a8fe7978a1ac740fd31a57f8dd9911c",
+    "bytes": 253004,
+    "source_sha256": "fbf451b9d5f8a5635db78c757159b2ee8528e7d3a6eef54b145fe06a7d78c839",
+    "width": 1672,
+    "height": 941,
+    "lossless": false
+  },
+  "guide/photos/2026-10-guide-things-to-do-hero-v1.webp": {
+    "path": "optimized/guide/photos/2026-10-guide-things-to-do-hero-v1-eb670f486a7a.webp",
+    "sha256": "eb670f486a7a474a13d26e37ca54271b787f1245065e05de193b9c7ac81c763f",
+    "bytes": 338564,
+    "source_sha256": "3c7ff66e50646db45e37c5c349273f3faca33a22163051c754d02bbaeb2878fd",
+    "width": 1672,
+    "height": 941,
+    "lossless": false
+  },
+  "guide/photos/2026-10-guide-travel-tips-hero-v1.webp": {
+    "path": "optimized/guide/photos/2026-10-guide-travel-tips-hero-v1-abbd509184bd.webp",
+    "sha256": "abbd509184bd5662cecb78995dedb1a21982f43b1b7aeb319e74e6f4583cac5c",
+    "bytes": 317688,
+    "source_sha256": "5ecdfe08c6a55f72e1bd2c000f4de75aa4cc692a61b39faae118552e9ad07fe4",
+    "width": 1672,
+    "height": 941,
+    "lossless": false
+  },
+  "guide/photos/travel-tips/money-and-payments-v1.jpg": {
+    "path": "optimized/guide/photos/travel-tips/money-and-payments-v1-eae614b305f3.webp",
+    "sha256": "eae614b305f3712a5bd49dbcde98eb4e5afc687e5c200dd5b650f11916405036",
+    "bytes": 104522,
+    "source_sha256": "a4bcf4d5f3d8ab0ac236778ede49a43f4fd0f144d0fab46a9a439e57f68dff9a",
+    "width": 1536,
+    "height": 1024,
+    "lossless": false
+  },
+  "guide/photos/travel-tips/safety-and-practical-advice-v1.jpg": {
+    "path": "optimized/guide/photos/travel-tips/safety-and-practical-advice-v1-5f2d5f0339c3.webp",
+    "sha256": "5f2d5f0339c32139c321ef7c1e03e9e882dbbfcf5652522485fc2510fc6106d6",
+    "bytes": 167430,
+    "source_sha256": "1fa1e9e974c5cb3c3b5d44f092980c0823d9776305d778fdcf21be4bfbe0e7e4",
+    "width": 1536,
+    "height": 1024,
+    "lossless": false
+  },
+  "guide/photos/travel-tips/sim-cards-and-internet-v1.jpg": {
+    "path": "optimized/guide/photos/travel-tips/sim-cards-and-internet-v1-7757afd1b11c.webp",
+    "sha256": "7757afd1b11cc871d0a801dae4a69213786ba7295666033e05ffd44e4ec6c1e4",
+    "bytes": 117486,
+    "source_sha256": "a365a8278195737d50315d192e1ec1b1ff0389277e2ea71be216f80679876ac0",
+    "width": 1536,
+    "height": 1024,
+    "lossless": false
+  },
+  "guide/photos/travel-tips/transport-in-sri-lanka-v1.jpg": {
+    "path": "optimized/guide/photos/travel-tips/transport-in-sri-lanka-v1-a2016faad2cb.webp",
+    "sha256": "a2016faad2cb7f862c29650373625938409b59465e5111a1d643b989d7042bb1",
+    "bytes": 269724,
+    "source_sha256": "0ed1746ce6c2f2e4b6ed63d54a229870e22c7ea742245cf1cac9b7bbe25a48b5",
+    "width": 1536,
+    "height": 1024,
+    "lossless": false
+  },
+  "guide/photos/travel-tips/visa-information-v1.jpg": {
+    "path": "optimized/guide/photos/travel-tips/visa-information-v1-69dd2b732150.webp",
+    "sha256": "69dd2b73215052b810c970ffd76f138278a62638ff2a7619ef46b8c73bc0b572",
+    "bytes": 110018,
+    "source_sha256": "946ec2e80e2cc757d0cd5907bf311c071c8168cc7911fb8b7d27987671a5f7f9",
+    "width": 1536,
+    "height": 1024,
+    "lossless": false
+  },
+  "guide/photos/travel-tips/weather-and-best-time-to-visit-v1.jpg": {
+    "path": "optimized/guide/photos/travel-tips/weather-and-best-time-to-visit-v1-722c427bcf25.webp",
+    "sha256": "722c427bcf25329e85b7e0ba10425a113b67ee3ee09ec637a86a1dda515661b4",
+    "bytes": 229084,
+    "source_sha256": "a3998f719a970757bbe020edd6fb3da72e4f0dc3ea445d3835f6ef951ea095a2",
+    "width": 1536,
+    "height": 1024,
+    "lossless": false
+  },
+  "guide/photos/travel-tips/what-to-pack-v1.jpg": {
+    "path": "optimized/guide/photos/travel-tips/what-to-pack-v1-dab93aefee23.webp",
+    "sha256": "dab93aefee238fcf2163c0d9b0248402631014db3b6d86b8fc6968c5da4d5ca5",
+    "bytes": 194764,
+    "source_sha256": "1dc00ce2ab7032003e15f4b89cf1d72db6d90ff64835e7c390b12a850c3d8f9e",
+    "width": 1536,
+    "height": 1024,
+    "lossless": false
+  },
+  "tours/photos/2025-08-sample-img-1-1.png": {
+    "path": "optimized/tours/photos/2025-08-sample-img-1-1-0192c168b421.webp",
+    "sha256": "0192c168b421ec259cd03b00995e0a9981338c406b7ce608372081c019e04f19",
+    "bytes": 554664,
+    "source_sha256": "4c80aaf43aa1266c8a2d5c8773ff38697195991553b61dc0b9cf8dcee41d7778",
+    "width": 750,
+    "height": 635,
+    "lossless": true
+  },
+  "tours/photos/2025-08-sample-img-1-2.png": {
+    "path": "optimized/tours/photos/2025-08-sample-img-1-2-0192c168b421.webp",
+    "sha256": "0192c168b421ec259cd03b00995e0a9981338c406b7ce608372081c019e04f19",
+    "bytes": 554664,
+    "source_sha256": "4c80aaf43aa1266c8a2d5c8773ff38697195991553b61dc0b9cf8dcee41d7778",
+    "width": 750,
+    "height": 635,
+    "lossless": true
+  },
+  "tours/photos/2025-08-sample-img-1.png": {
+    "path": "optimized/tours/photos/2025-08-sample-img-1-0192c168b421.webp",
+    "sha256": "0192c168b421ec259cd03b00995e0a9981338c406b7ce608372081c019e04f19",
+    "bytes": 554664,
+    "source_sha256": "4c80aaf43aa1266c8a2d5c8773ff38697195991553b61dc0b9cf8dcee41d7778",
+    "width": 750,
+    "height": 635,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Adventure-01-scaled.jpg": {
+    "path": "optimized/tours/photos/2025-09-Adventure-01-scaled-4caa220af869.webp",
+    "sha256": "4caa220af869c6f027067b7b0a00f0142ba82498d5329af71ce19a73244d12eb",
+    "bytes": 522732,
+    "source_sha256": "199bac3b97163e49cd814c239fd325e9564cd29398b3293b113b02de250e1771",
+    "width": 1282,
+    "height": 1920,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Adventure-03-scaled.jpg": {
+    "path": "optimized/tours/photos/2025-09-Adventure-03-scaled-83eadfdad348.webp",
+    "sha256": "83eadfdad348bdce69b7b7ba6b9404f4dd5b30a62d9280b86694d93ec9588d19",
+    "bytes": 379300,
+    "source_sha256": "bd9371cf5bd3dd9bde0debde8fc3fe29183929d277dc82c5de591539d1dea63f",
+    "width": 1920,
+    "height": 1282,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Adventure-04.jpg": {
+    "path": "optimized/tours/photos/2025-09-Adventure-04-ba777c102206.webp",
+    "sha256": "ba777c1022067973a70ec4c50457acba419742c92395d551f69b903d9780f45c",
+    "bytes": 146578,
+    "source_sha256": "daebd0c5cbe4ccb10eb719739079c22167b7da72796d391470929506db6b5ce9",
+    "width": 1246,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Adventure-06.jpg": {
+    "path": "optimized/tours/photos/2025-09-Adventure-06-b6e22cfb0349.webp",
+    "sha256": "b6e22cfb0349ea98130773a54a56bbd6c9cddb13b26ce4a7cde449b29585fba4",
+    "bytes": 170034,
+    "source_sha256": "7bc24f54b0181ffa82a07b9e5abbd53dfe7e8ec48752040ff4ca53a99305afa0",
+    "width": 1620,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Adventure-07.jpg": {
+    "path": "optimized/tours/photos/2025-09-Adventure-07-91a869da9dae.webp",
+    "sha256": "91a869da9dae217ffa2f77b36f641ca9099848acbb103b536614a6bdbfd07e38",
+    "bytes": 137756,
+    "source_sha256": "03573e1194bca503e591109e5115586d890901b8fdb8569c3b15b80168a44f26",
+    "width": 1416,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Adventure-08.jpg": {
+    "path": "optimized/tours/photos/2025-09-Adventure-08-761be0f02123.webp",
+    "sha256": "761be0f0212337b6cd93067b7f347b61e234a9b58eb68dc1920d3ed264cceed3",
+    "bytes": 242068,
+    "source_sha256": "4b3615dda0e29813dbe34dda813add0536fbd0eefd3d405c261d5fb4f4697eab",
+    "width": 1619,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Adventure-09.jpg": {
+    "path": "optimized/tours/photos/2025-09-Adventure-09-a85cc0d9ee7e.webp",
+    "sha256": "a85cc0d9ee7e59b2fc1ca05519590f4a2d5c1254ce6d74e92e7821130cd5a725",
+    "bytes": 81012,
+    "source_sha256": "ea0f7fc77e06698b91ccb1ab6aecc369aac628a156254126411d569b29467368",
+    "width": 1525,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Adventure-10-scaled.jpg": {
+    "path": "optimized/tours/photos/2025-09-Adventure-10-scaled-5ed4c99fe137.webp",
+    "sha256": "5ed4c99fe1376c6b8519619d68920e8d2bddce75c1d72563c46066975458ba54",
+    "bytes": 222714,
+    "source_sha256": "b6454fd917d88f097492d1f3a05e7d372d1350095a0854ca96c61c727fbe491e",
+    "width": 1920,
+    "height": 1005,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Adventure-11.jpg": {
+    "path": "optimized/tours/photos/2025-09-Adventure-11-f1fcf9a13af7.webp",
+    "sha256": "f1fcf9a13af7d5e671bdc989109921322bb4a0f05c87f597129a44d98f062ab7",
+    "bytes": 253782,
+    "source_sha256": "fe662ff108dcceb802eae422b5149360d99d5fb53efcf80c4af4e80a0c49c3c1",
+    "width": 1620,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Adventure-scaled.jpg": {
+    "path": "optimized/tours/photos/2025-09-Adventure-scaled-7d4db7318246.webp",
+    "sha256": "7d4db73182466cb70d5666b1733f9d09dd57dd66dda192d180e0ff776fd0b1b6",
+    "bytes": 376200,
+    "source_sha256": "f49c6c00c7cfeb94dbd647ede6ca2a5d64a9c971c2f11654d0167f9e616680cc",
+    "width": 1920,
+    "height": 1282,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Adventure-tour.png": {
+    "path": "optimized/tours/photos/2025-09-Adventure-tour-162d90762993.webp",
+    "sha256": "162d907629939797f8d49d2cafc4f3f26cceba546ccf72c3fa60c30d60c57196",
+    "bytes": 1963412,
+    "source_sha256": "1c41c272b5544b949d71f6190ed1d7c33641f7521d65cd0e059d90b24681371b",
+    "width": 1600,
+    "height": 1515,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Ancient-Heritage-and-Scenic-Beauty-of-Sri-Lanka@3x.png": {
+    "path": "optimized/tours/photos/2025-09-Ancient-Heritage-and-Scenic-Beauty-of-Sri-Lanka@3x-c181a97506bf.webp",
+    "sha256": "c181a97506bf29c950c3c84752611a6e65642e29b1885f4c66b39770362ae340",
+    "bytes": 1975070,
+    "source_sha256": "c4abc07472633ac2a048e3a58b8ec018907be158e60d6bfc122dac72657f2c28",
+    "width": 1808,
+    "height": 1920,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Beach-04.jpg": {
+    "path": "optimized/tours/photos/2025-09-Beach-04-89b86ced6bca.webp",
+    "sha256": "89b86ced6bca030b786f9d51b94ec81f6369f3ba653af24dd6a608abba3effa9",
+    "bytes": 311404,
+    "source_sha256": "040f55d95759d000f12b933904d7ce70f316e162232464d47013ce09ff116035",
+    "width": 1440,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Beach-Tour.png": {
+    "path": "optimized/tours/photos/2025-09-Beach-Tour-d35ac18dda70.webp",
+    "sha256": "d35ac18dda70c7163174fa8b2c9f19541205d834b59a994f7ad25c334fa14ca7",
+    "bytes": 2186524,
+    "source_sha256": "8d2219b41908d7891d113d9d2c0a3d9f7e8541747231025d5f2fd4e32bc188db",
+    "width": 1600,
+    "height": 1604,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Beach-Walk-scaled.jpg": {
+    "path": "optimized/tours/photos/2025-09-Beach-Walk-scaled-2e4c42428fc7.webp",
+    "sha256": "2e4c42428fc7ab3b727cafa1a26a39aa4161e585e1cf031e773b48b7d33650e1",
+    "bytes": 114882,
+    "source_sha256": "e6a094db67a99b07ec087e41797598ca7b4cdbe313e8de615511ea3c670c4f56",
+    "width": 1920,
+    "height": 1280,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Beaches-2.jpg": {
+    "path": "optimized/tours/photos/2025-09-Beaches-2-b0c5e7e7c53d.webp",
+    "sha256": "b0c5e7e7c53dbfbb73b0370589690d92ee4431eccfdde522c330cb4ec06728b8",
+    "bytes": 158638,
+    "source_sha256": "1d196c9085895f55b6cf6ff58b6287428c2c705ba2a1e67fe36fbc9a33ee42c4",
+    "width": 1623,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Bentota-1.jpg": {
+    "path": "optimized/tours/photos/2025-09-Bentota-1-cfcaeeb74610.webp",
+    "sha256": "cfcaeeb74610b8470d70a3f5d8aeb28047f719c3cd65229e645b5803e15824d6",
+    "bytes": 345926,
+    "source_sha256": "d50045039b1ff9e7aca07d21ae9a0df9dcf99a3d66fd2f9cb3eabfc546bc1c49",
+    "width": 1622,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Beyond-Boundaries-@3x.png": {
+    "path": "optimized/tours/photos/2025-09-Beyond-Boundaries-@3x-43b06af87d57.webp",
+    "sha256": "43b06af87d5712852cba800cf6ab232e965c3967006dd9bbb759739f018c4dfd",
+    "bytes": 1970708,
+    "source_sha256": "88f74d2528d7adb41ea0a8f4c6118ffec70423e2f64bbed9aa4660fb8ab35ad6",
+    "width": 1808,
+    "height": 1920,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Coastel-Romance.png": {
+    "path": "optimized/tours/photos/2025-09-Coastel-Romance-0afd3f536506.webp",
+    "sha256": "0afd3f536506d166b86b15eb4b3edef32809e3af913ec2594251ade1de8fbe69",
+    "bytes": 1952994,
+    "source_sha256": "b9375695d61f3e53202458d74d3002d74028870620f36209e985cbda8e2e83e0",
+    "width": 1920,
+    "height": 1517,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Colombo-1-scaled.jpg": {
+    "path": "optimized/tours/photos/2025-09-Colombo-1-scaled-537d9a0b0239.webp",
+    "sha256": "537d9a0b0239f88b6254d6d43d4a9f845c45d4f42937a150ca191523c8fe5b8b",
+    "bytes": 248138,
+    "source_sha256": "458205e2d60c065eb46d8aba2d26009c1be518105b4e88398eea0e1774bf2b1a",
+    "width": 1920,
+    "height": 1142,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Culture-01.jpg": {
+    "path": "optimized/tours/photos/2025-09-Culture-01-4e7c6979aa8b.webp",
+    "sha256": "4e7c6979aa8bd0e446eb450fe8b78b517def134d78dc0f5d4276fccc5fbfccbf",
+    "bytes": 407406,
+    "source_sha256": "9ac5bd6684221e2af868e98bed66d066121c141d430494bc12ae01dd10384f62",
+    "width": 1920,
+    "height": 1042,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Culture-04-scaled.jpg": {
+    "path": "optimized/tours/photos/2025-09-Culture-04-scaled-753371f8b673.webp",
+    "sha256": "753371f8b673b5db9f152259cbe37e4e4268f127592148bb31133d96c5b0d3ca",
+    "bytes": 351216,
+    "source_sha256": "9f48780706137b5ffcae84ec9a93a01945c213593a28a29d50eff223e8f5dd17",
+    "width": 1920,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Culture-05-scaled.jpg": {
+    "path": "optimized/tours/photos/2025-09-Culture-05-scaled-75cf588f2925.webp",
+    "sha256": "75cf588f29257b1751e6ca6ea8dc892e68ddb9a2ed0ecc652463f4150df88584",
+    "bytes": 163246,
+    "source_sha256": "5ff7e454242c416b072555e36e6a7a18b48408280c50aa2361b345153d0c2319",
+    "width": 1920,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Culture-06-scaled.jpg": {
+    "path": "optimized/tours/photos/2025-09-Culture-06-scaled-e3a5cc7684f6.webp",
+    "sha256": "e3a5cc7684f6390fdc6f1ab57bffeb746c7f53842a9b2185ad44712100553505",
+    "bytes": 447726,
+    "source_sha256": "59104cc6651fb830cf20f8c21d0625e220eb85cb1cc08e6aa6cec17f73db7dca",
+    "width": 1920,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-DSC_0339-scaled.jpg": {
+    "path": "optimized/tours/photos/2025-09-DSC_0339-scaled-df850dac3bea.webp",
+    "sha256": "df850dac3bea31d4703009efccf6fd0b2bbad02df660d02fea54b3947136901a",
+    "bytes": 235068,
+    "source_sha256": "a6104f1fab86f47d5d16e488787266539f9c0225f19fdee4202c7575ee6b6187",
+    "width": 1920,
+    "height": 1280,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Dambulla-04.jpg": {
+    "path": "optimized/tours/photos/2025-09-Dambulla-04-319f4289e82b.webp",
+    "sha256": "319f4289e82bd8c5c9ded5e4ebb6513cf1ecfa0052c485c706c5e17cfba6e8c4",
+    "bytes": 401908,
+    "source_sha256": "4a54e2bbe5a3a856883aade48cca428c554cebb460959716f34a4438580e881b",
+    "width": 1920,
+    "height": 1282,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Dambulla-scaled.jpg": {
+    "path": "optimized/tours/photos/2025-09-Dambulla-scaled-dd9798c81305.webp",
+    "sha256": "dd9798c813054ce5d4426d258d588b6383e7a0e0852128cd5bb595d91dc7bf0a",
+    "bytes": 387940,
+    "source_sha256": "dc66853c8047b53dbfa017c9d71a909089d2c987d9f04dd25858d12a25fcc3f2",
+    "width": 1920,
+    "height": 1413,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Eastern-Blue-Bliss@3x.png": {
+    "path": "optimized/tours/photos/2025-09-Eastern-Blue-Bliss@3x-b9599e5825bf.webp",
+    "sha256": "b9599e5825bf4cd7415aee92943792c7b0da3596608fdcb16e119a57d5e83308",
+    "bytes": 1979264,
+    "source_sha256": "2dbf909372628fc0a616501d9db484691b18207352e3a10c41185b873eb3df8a",
+    "width": 1808,
+    "height": 1920,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Ella-Rock-View.jpg": {
+    "path": "optimized/tours/photos/2025-09-Ella-Rock-View-5f1ece73dd69.webp",
+    "sha256": "5f1ece73dd69648780dfd368ac1c94a8bbaf9eec70bd51cdd4e8c0673546de3b",
+    "bytes": 281722,
+    "source_sha256": "e2c6b23dac037a59fed63622a376c0eb2544f91c92d4fa752367f8ce1181db83",
+    "width": 1623,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Ella-Train-Ride.jpg": {
+    "path": "optimized/tours/photos/2025-09-Ella-Train-Ride-d88375ab073c.webp",
+    "sha256": "d88375ab073cd795f968e68b2f3b555817aac1865266b79598191a4a7181dbb3",
+    "bytes": 338572,
+    "source_sha256": "f359ce2f00bf9ed2bd469adf362017de5b24b646c5bbe90b30afa172ab548014",
+    "width": 1626,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Family-Escapade-in-Paradise-Sri-Lanka-Edition@3x.png": {
+    "path": "optimized/tours/photos/2025-09-Family-Escapade-in-Paradise-Sri-Lanka-Edition@3x-e5052dbe4ee9.webp",
+    "sha256": "e5052dbe4ee94675850358291940c07c8a48206929d014049bf9c799283db522",
+    "bytes": 1980510,
+    "source_sha256": "d98c03479bff948cd4eeb00b0ef6e88c9862f7c7502da48eaa3125665443eb45",
+    "width": 1808,
+    "height": 1920,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Family-Tour.jpg": {
+    "path": "optimized/tours/photos/2025-09-Family-Tour-6a0f4bc9d907.webp",
+    "sha256": "6a0f4bc9d90780046d286836b08d6f5f441d37e53db9f39c149f3fa30682b96b",
+    "bytes": 119680,
+    "source_sha256": "7f8d38fe93ba0aff1416624811942b5b6647739285d5caa6de34629e612ad9a2",
+    "width": 1620,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Family-Tours.png": {
+    "path": "optimized/tours/photos/2025-09-Family-Tours-ab91bc11a0d2.webp",
+    "sha256": "ab91bc11a0d2c0e7110e6bf2a6aad018c154df434606d6e5ea299d27a26db6c4",
+    "bytes": 1980600,
+    "source_sha256": "ddfaaf322939aced065bf044fe4938a4a6c31d158d982b8b086a1b4fe617c3f8",
+    "width": 1600,
+    "height": 1654,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Galle-Fort-2.jpg": {
+    "path": "optimized/tours/photos/2025-09-Galle-Fort-2-4c539a7c29e3.webp",
+    "sha256": "4c539a7c29e305313bddd75d151085a6ef48663a6b21f9e306422a3c648c2f02",
+    "bytes": 151548,
+    "source_sha256": "3cbcf56dddca0b41938c9791511e7242cc0efd6de7263a31b16fe7349cdaaa5c",
+    "width": 1620,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Habarana.jpg": {
+    "path": "optimized/tours/photos/2025-09-Habarana-27d49d407edb.webp",
+    "sha256": "27d49d407edb5519216a628ae75cecf499b76f3478421c558fe1ccb3454854ca",
+    "bytes": 316578,
+    "source_sha256": "e80de4bea31a873d4f28b33d034b110b72c3b85fa68ea6914ac8966f18894e12",
+    "width": 1620,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Hill-Country.png": {
+    "path": "optimized/tours/photos/2025-09-Hill-Country-f7219183a729.webp",
+    "sha256": "f7219183a729ee2c4693fc8c066a3311124355791a897e6838dba38669dd72ed",
+    "bytes": 1815266,
+    "source_sha256": "304279977ed9261d6bf3610512ba4c8973e4034f500b94335683183e54e1f050",
+    "width": 1600,
+    "height": 1551,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Honeymoon-Tours.png": {
+    "path": "optimized/tours/photos/2025-09-Honeymoon-Tours-f956065ff303.webp",
+    "sha256": "f956065ff303254d2f273180a575b668b554ca9ed4fbf82ab5484c58784272e2",
+    "bytes": 1846904,
+    "source_sha256": "840c0f0a62a03a7de500df4f4bb75b1d268cad73a009f9bbe0b56e94018dbf13",
+    "width": 1600,
+    "height": 1551,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Horton-Plains.jpg": {
+    "path": "optimized/tours/photos/2025-09-Horton-Plains-b5bb3b76d023.webp",
+    "sha256": "b5bb3b76d02362c028b60e9c5bddc467db9d6aab78f55223f8378a6c54aa9f16",
+    "bytes": 200012,
+    "source_sha256": "a1d6d50994b5ac1e43952b1e03c52160c5b75f5f30083cd63ee87cb47d71d182",
+    "width": 1619,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Journey-Through-Sri-Lankas-Culture-History-and_Heritage@3x.png": {
+    "path": "optimized/tours/photos/2025-09-Journey-Through-Sri-Lankas-Culture-History-and_Heritage@3x-1ec59efd475e.webp",
+    "sha256": "1ec59efd475ec5aa7c0951f7586c8576ce42e7483738fa317fabd22c7f394855",
+    "bytes": 1953256,
+    "source_sha256": "02eaa3e7ec0b3beb8794f91033dcaef618b37bf1ca211eaa43d2f9b63c78df2e",
+    "width": 1808,
+    "height": 1920,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Kandy-01-1.jpg": {
+    "path": "optimized/tours/photos/2025-09-Kandy-01-1-29f3ea2ae1d1.webp",
+    "sha256": "29f3ea2ae1d1811d2666170e5d0c2a1e9c34f5935403321bfe39a4c53c15ab7f",
+    "bytes": 174736,
+    "source_sha256": "b302a35614eeb9c87837336ef24ff196bf7f8231fc9bae3d50382475c896b461",
+    "width": 1630,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Kandy-1.jpg": {
+    "path": "optimized/tours/photos/2025-09-Kandy-1-9d037991b0b0.webp",
+    "sha256": "9d037991b0b04d7f51b484824333168c5d6d4043f1f270e341810e6b79905446",
+    "bytes": 206764,
+    "source_sha256": "f199b6670588965f387c1184df752cf395d3e07e573b436b8a20cfa30f59cd09",
+    "width": 1920,
+    "height": 991,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Kandy-2.jpg": {
+    "path": "optimized/tours/photos/2025-09-Kandy-2-572b19d126e0.webp",
+    "sha256": "572b19d126e084f707e61023f10d7555d53f6034736cef3f7ba517fd38a9fa4c",
+    "bytes": 277396,
+    "source_sha256": "140d2326e77322e20fbec4cab39534bb1727b8baeee1247ea82cfbba2b022855",
+    "width": 1630,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Kandy-scaled.jpg": {
+    "path": "optimized/tours/photos/2025-09-Kandy-scaled-0e3d27925bd8.webp",
+    "sha256": "0e3d27925bd8c2a32025f863fa6260c100e14dc1012492f4b57346219a4b7a64",
+    "bytes": 608510,
+    "source_sha256": "7a8e96553fb2a3843fc6494adf5f7119d388e90a5b85a28525a8434c592e98ed",
+    "width": 1920,
+    "height": 1440,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Magical-Sri-Lanka-A-Family-Adventure@3x.png": {
+    "path": "optimized/tours/photos/2025-09-Magical-Sri-Lanka-A-Family-Adventure@3x-9bc52b0f4e9e.webp",
+    "sha256": "9bc52b0f4e9e03b8ed9a502490682f54116e1d7d54dae35f6265e13ebf6ce5c0",
+    "bytes": 1975252,
+    "source_sha256": "03fc0a63b0b6432a3dc9d50dcd4e6615ac9b96c26091bb4a03cf760014859f4c",
+    "width": 1808,
+    "height": 1920,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Majestic-Hill-Country-Journey-and-Colombo-Retreat@3x.png": {
+    "path": "optimized/tours/photos/2025-09-Majestic-Hill-Country-Journey-and-Colombo-Retreat@3x-bf12bab5b5eb.webp",
+    "sha256": "bf12bab5b5eb35e4a5dc70542b7128de457f95103fd0c43045308b6355eaa9d3",
+    "bytes": 1950492,
+    "source_sha256": "e332c5b3ecc22cea790b5506b8941fa8289059f0d08a4654d92936a2fea3ef7c",
+    "width": 1808,
+    "height": 1920,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Mirissa-scaled.jpg": {
+    "path": "optimized/tours/photos/2025-09-Mirissa-scaled-7363093c0115.webp",
+    "sha256": "7363093c0115bb8507284ac104c9d66d2fa6e8f87701b1a55dd217063a843440",
+    "bytes": 165850,
+    "source_sha256": "b4587c79bdbbfef5f5bb8de379f7af04ab0ffb7e82c5559d4f785261e16a6c3c",
+    "width": 1920,
+    "height": 1342,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Nature-Wildlife-Tours.png": {
+    "path": "optimized/tours/photos/2025-09-Nature-Wildlife-Tours-a96b49d9e1db.webp",
+    "sha256": "a96b49d9e1dbe19f7ac68217a59cea7de866c7055c16265685bad6ee2e1f329e",
+    "bytes": 2045294,
+    "source_sha256": "4ffab04ca2dde5fa481fecdadb9f5aa6a5f923193007978612a93cf250fb3459",
+    "width": 1600,
+    "height": 1547,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Ramayana-Tour-Category-Banner-scaled.jpeg": {
+    "path": "optimized/tours/photos/2025-09-Ramayana-Tour-Category-Banner-scaled-da5e5f762c09.webp",
+    "sha256": "da5e5f762c09ae7f3eb67f2d794e8f0e2554d63ba7a598182c19f7ddf15aec65",
+    "bytes": 234792,
+    "source_sha256": "cdee751744d3b69162f7b0a0828166019e45c5e5d218f9db3f2a76b8b7f8682e",
+    "width": 1920,
+    "height": 1282,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Romantic-02.jpg": {
+    "path": "optimized/tours/photos/2025-09-Romantic-02-d8e391cc9d2f.webp",
+    "sha256": "d8e391cc9d2f382d34146a58dc865b94b1adf5f37fc4c76cba5def0f6e9ee4d1",
+    "bytes": 145844,
+    "source_sha256": "76980b475f76ff1739d3d81f93fa8dfa06d16d2e62a6ea032e3488fab9c5892a",
+    "width": 1622,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Romantic-Sri-Lanka-Cultural-and-Nature-Journey@3x.png": {
+    "path": "optimized/tours/photos/2025-09-Romantic-Sri-Lanka-Cultural-and-Nature-Journey@3x-b5d6d6300a34.webp",
+    "sha256": "b5d6d6300a34090cc86c51049bbeb8920f2db534f1694a13a5ce75e4792179a1",
+    "bytes": 1973614,
+    "source_sha256": "6bed6b95c682ee911ba32b7668ea13ad32ba6ffa0a467b730bc923e0519bf74d",
+    "width": 1808,
+    "height": 1920,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Romantic-Sri-Lanka-Honeymoon-with-Nature-Highlights-@3x.png": {
+    "path": "optimized/tours/photos/2025-09-Romantic-Sri-Lanka-Honeymoon-with-Nature-Highlights-@3x-d39083c4d3ec.webp",
+    "sha256": "d39083c4d3ecdce2e8ab0f8b0da5675a0043b9b4b4f4e46b4819ed5fc3f4792b",
+    "bytes": 1991484,
+    "source_sha256": "ba54cbea6e6ecfc02446f0c004f38317726888ac51ab4e6a6be0a2b38518d4e5",
+    "width": 1808,
+    "height": 1920,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Safari-02-scaled.jpg": {
+    "path": "optimized/tours/photos/2025-09-Safari-02-scaled-7f4c3bb950a4.webp",
+    "sha256": "7f4c3bb950a40ff996ee4424f99868c2008aefcfb3196f6716935cf294c77507",
+    "bytes": 138680,
+    "source_sha256": "cdba4a3d4dbd40210bec5d6bcfa0b9e494bdc679f1d4c40ff4758c018654c06d",
+    "width": 1920,
+    "height": 1280,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Safari-scaled.jpg": {
+    "path": "optimized/tours/photos/2025-09-Safari-scaled-eabaa5ee3974.webp",
+    "sha256": "eabaa5ee39741125fbe8d8af9c8a038150416442948342c8c57be6f345bb25af",
+    "bytes": 206432,
+    "source_sha256": "42f962c75a1ca07e654c6ee6135d400c982c21af9f38677f3ccf8a49c27eca44",
+    "width": 1920,
+    "height": 1275,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Scenic-Hill-Country-Exploration-and-Southern-Wonders@3x.png": {
+    "path": "optimized/tours/photos/2025-09-Scenic-Hill-Country-Exploration-and-Southern-Wonders@3x-78dcf164408d.webp",
+    "sha256": "78dcf164408d08377f132fa2760918a7089f672d99bd7e8f8bfae54fe2060807",
+    "bytes": 1964220,
+    "source_sha256": "056086ab1032d5e5fdbb273dfa53084d8862daaa3439322f128d00ac5fc796ba",
+    "width": 1808,
+    "height": 1920,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Sigiriya-01.jpg": {
+    "path": "optimized/tours/photos/2025-09-Sigiriya-01-7a90a91dcc71.webp",
+    "sha256": "7a90a91dcc71db76693999cdc306a7733ed1913f4219c0e3ae3ff85afde20893",
+    "bytes": 154406,
+    "source_sha256": "f91759bc26a6fd331d12cedf755ab92528822cc2ea4bf1d43268a34327a65c57",
+    "width": 1620,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Southern-Explorer@3x.png": {
+    "path": "optimized/tours/photos/2025-09-Southern-Explorer@3x-339acbb07458.webp",
+    "sha256": "339acbb07458c8c854f2b4e79d25ec6ec40f56d70453f8db4ebed7327c0e141b",
+    "bytes": 1950816,
+    "source_sha256": "9505f35c1be479803a00a50f592b5c40257b4fde40900e8a3b93a6f277ebe8f6",
+    "width": 1808,
+    "height": 1920,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Southern-Sands-Voyage@3x.png": {
+    "path": "optimized/tours/photos/2025-09-Southern-Sands-Voyage@3x-32f352cf107a.webp",
+    "sha256": "32f352cf107a7879bc0e1c34890ad925e10e2bebb9390b29b406a1710941e36b",
+    "bytes": 1955416,
+    "source_sha256": "ecc01db2cacc5235744e320724dd4006760cc464c7cdfabd77622304f3a9daab",
+    "width": 1808,
+    "height": 1920,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Sri-Lanka-Cultural-and-Heritage-Discovery-Tour@3x.png": {
+    "path": "optimized/tours/photos/2025-09-Sri-Lanka-Cultural-and-Heritage-Discovery-Tour@3x-6ac6682ae043.webp",
+    "sha256": "6ac6682ae0436dd3ca0aa46f04e8a59d0f6bc7aeb89573bbd2560f7120e53443",
+    "bytes": 1982222,
+    "source_sha256": "f86527ba1b487189465a2e5c94d1e8adbe2b6d9c28c061b1781321ed7ac1cf39",
+    "width": 1808,
+    "height": 1920,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Sri-Lanka-Nature-Culture-and-Coastal-Dreams@3x.png": {
+    "path": "optimized/tours/photos/2025-09-Sri-Lanka-Nature-Culture-and-Coastal-Dreams@3x-f176c7673d7d.webp",
+    "sha256": "f176c7673d7df621eb29a1d3df1366f6270fabf29753d564a6d79f00ac714e3f",
+    "bytes": 1991838,
+    "source_sha256": "56ffaafe71ef1ffe3c57d944334dee767c2da66ef9470c5045a773450300f3ca",
+    "width": 1808,
+    "height": 1920,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Sri-Lanka-Nature-Heritage-and-Beach-Experience@3x.png": {
+    "path": "optimized/tours/photos/2025-09-Sri-Lanka-Nature-Heritage-and-Beach-Experience@3x-cf0e2cec285f.webp",
+    "sha256": "cf0e2cec285fb1b05d576c3bb7dd3aab79f3769d5e1cf90a62f0f04e243fa2e8",
+    "bytes": 2000904,
+    "source_sha256": "baa5e8b5151bc85b09973028cb7c9f38189830c14ba3f979c070030e92b47128",
+    "width": 1808,
+    "height": 1920,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Sri-Lanka-Nature-Wildlife-and-Culture-Escape@3x.png": {
+    "path": "optimized/tours/photos/2025-09-Sri-Lanka-Nature-Wildlife-and-Culture-Escape@3x-0b44f2776817.webp",
+    "sha256": "0b44f2776817a9287d6eac7990dcd70289e28c0cab9423a2d0ea8dbf5bbdf399",
+    "bytes": 1969318,
+    "source_sha256": "82d6eceedb6d85f04f56c757cdd0699b06e6f90e07007fd5cd8f8bc195ae7bd3",
+    "width": 1808,
+    "height": 1920,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Sunrise-Shores-Tour@3x.png": {
+    "path": "optimized/tours/photos/2025-09-Sunrise-Shores-Tour@3x-c4f70da25d06.webp",
+    "sha256": "c4f70da25d0634b2f726fc1da1c2ec57a79c11998a7a8afeee853f70edc3222b",
+    "bytes": 1989278,
+    "source_sha256": "0b966c4cb065eca3450ff217d85180bbaf15ce8052dcf27350a72d0c70339ea3",
+    "width": 1808,
+    "height": 1920,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Tea.jpg": {
+    "path": "optimized/tours/photos/2025-09-Tea-690287044215.webp",
+    "sha256": "6902870442151b98ea4b1a95a6d0c577951959e537c24359e6d9854677febdbe",
+    "bytes": 242852,
+    "source_sha256": "37b236611cbcdbba24de5de40a86d843bf1f598337c009d0004af535d05b0aef",
+    "width": 1595,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Venture-Further@3x.png": {
+    "path": "optimized/tours/photos/2025-09-Venture-Further@3x-590f14df8e10.webp",
+    "sha256": "590f14df8e106610eea080147458d6ad4d3ffac7c654c50112fe45a21b0bd310",
+    "bytes": 1989410,
+    "source_sha256": "04ea8f3ab17e6725414dfa6f0f30c507f41c47b6248d6b233370742d078a6f5c",
+    "width": 1823,
+    "height": 1920,
+    "lossless": true
+  },
+  "tours/photos/2025-09-Waterfall-scaled.jpeg": {
+    "path": "optimized/tours/photos/2025-09-Waterfall-scaled-57fed9449a98.webp",
+    "sha256": "57fed9449a98a98bc36d513d445d351c25aae923e42a0531aba5c2c11a6202b6",
+    "bytes": 382636,
+    "source_sha256": "344399b87bd123e474d3d321390b197a08359bb68c742ec6c1da6ceffbfe0193",
+    "width": 1920,
+    "height": 1239,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Waterfall.jpg": {
+    "path": "optimized/tours/photos/2025-09-Waterfall-0df80d17f84f.webp",
+    "sha256": "0df80d17f84fb0ff7cb32f4fc7b9751ff6c2e0a83c0abb69a4455baaff3d31cd",
+    "bytes": 320956,
+    "source_sha256": "9caedad1c8d20edc6c31e538ba9aa813000ab618da9619af02dbefb865f2c557",
+    "width": 1620,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Weligama.jpg": {
+    "path": "optimized/tours/photos/2025-09-Weligama-e96f9052ff94.webp",
+    "sha256": "e96f9052ff94db55a427c5585537336a61e1e680c3be833ddc3070ea04773b7a",
+    "bytes": 182442,
+    "source_sha256": "278ccbe856c1c9d73cd57b61262f5b9c6bda27170582ead612797d30d0325ef3",
+    "width": 1630,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Widlife-06-scaled.jpg": {
+    "path": "optimized/tours/photos/2025-09-Widlife-06-scaled-7f0db033f472.webp",
+    "sha256": "7f0db033f472f02fac1b6f8adcc42051241cf8d067228e308f4d599d63bbd215",
+    "bytes": 297332,
+    "source_sha256": "093f6a52303cd26b51556bb29cf285e5bf053c1d953e2d1644030094b45b12fc",
+    "width": 1920,
+    "height": 1280,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Wildlife-01.jpg": {
+    "path": "optimized/tours/photos/2025-09-Wildlife-01-9d511b0f4c82.webp",
+    "sha256": "9d511b0f4c82131e8c3127c33b82abcef96459c36237d9e3f08e7c7325c66919",
+    "bytes": 248798,
+    "source_sha256": "9a13ca51bfed4c9a7a2f22ef4674b532b6d6144369a47367c2d76cbc1c821ea7",
+    "width": 1667,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Wildlife-03.jpg": {
+    "path": "optimized/tours/photos/2025-09-Wildlife-03-3c0e8c44eb72.webp",
+    "sha256": "3c0e8c44eb7297dd4091ebb2498a364502315ee61b300fca4da4849c0ecba69b",
+    "bytes": 384192,
+    "source_sha256": "03e6b6c3a04569d608c3707179890e47f35bd73855825a17213b4079c351e932",
+    "width": 1803,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Wildlife-scaled.jpg": {
+    "path": "optimized/tours/photos/2025-09-Wildlife-scaled-385d27052765.webp",
+    "sha256": "385d2705276526ed16f56bbed90376e0cff278ac70fa947e60519511ca08db15",
+    "bytes": 142212,
+    "source_sha256": "7d2a2cb29bf7f35ea46a026c5a8bf9111a41b49ec5bbefb3dcc1787017564b9d",
+    "width": 1920,
+    "height": 1286,
+    "lossless": false
+  },
+  "tours/photos/2025-09-Yala.jpg": {
+    "path": "optimized/tours/photos/2025-09-Yala-15a80a84be88.webp",
+    "sha256": "15a80a84be88e1bddc372c130f91bd2de1958ffdf84ff464f78728fceba41dc0",
+    "bytes": 176252,
+    "source_sha256": "6d76918987f1ab55e1aa9a204446465bf4b98798fc8777743b55a9f92117c86b",
+    "width": 1620,
+    "height": 1080,
+    "lossless": false
+  },
+  "tours/photos/2025-09-dummy-banner-scaled.jpg": {
+    "path": "optimized/tours/photos/2025-09-dummy-banner-scaled-8d0aec3d2a36.webp",
+    "sha256": "8d0aec3d2a369d27fdc04b0362cf81c9659fbcf0af4015eb49cc620f5e0e1716",
+    "bytes": 231240,
+    "source_sha256": "70d94c4246704a88be7e03cc6fc81058c66f52253c5b2c50701bf0ea7ae3bf99",
+    "width": 1920,
+    "height": 1280,
+    "lossless": false
+  },
+  "tours/photos/2025-09-ella-neww-map.png": {
+    "path": "optimized/tours/photos/2025-09-ella-neww-map-5eba72401f9a.webp",
+    "sha256": "5eba72401f9ad0a420141aa27a9b99009a0d39cb86ae8fe38a65d132b745a395",
+    "bytes": 1092326,
+    "source_sha256": "d6d37149e9acd797b06d23f745937830fe552273863262ddbe655b16c729052a",
+    "width": 1119,
+    "height": 1118,
+    "lossless": true
+  },
+  "tours/photos/2025-09-image-63.png": {
+    "path": "optimized/tours/photos/2025-09-image-63-aebc644aa79e.webp",
+    "sha256": "aebc644aa79e5e67274c39f61e09b47b23b56c2240bbcab55b16ca73412a51b2",
+    "bytes": 271090,
+    "source_sha256": "0f9ff57c1d7cdd34cfc4d2ccd2ccb562fe9da10a49834fa363b7b860aa6debc8",
+    "width": 465,
+    "height": 551,
+    "lossless": true
+  },
+  "tours/photos/2025-09-main-listing-page-features-3.jpg": {
+    "path": "optimized/tours/photos/2025-09-main-listing-page-features-3-a5c3d7ff6a13.webp",
+    "sha256": "a5c3d7ff6a13c4ee1bd78884977eb943ede4b1f316709efd754c49ef16d3a3a3",
+    "bytes": 45424,
+    "source_sha256": "1450bc2e8d520fa8a46d964f043d1c61ef09f456233b09403b31c7a045bd7fdf",
+    "width": 465,
+    "height": 550,
+    "lossless": false
+  },
+  "tours/photos/2025-09-main-listing-page-features-5.jpg": {
+    "path": "optimized/tours/photos/2025-09-main-listing-page-features-5-41cdab668104.webp",
+    "sha256": "41cdab6681049fdb58445c05f0858a29dd5f01352eda6d6f86090431dee36bf1",
+    "bytes": 41206,
+    "source_sha256": "a08031fff3576fb7dd3fffe5cfa2eadb96fd080c710d1e441003768ebf016ca4",
+    "width": 465,
+    "height": 550,
+    "lossless": false
+  },
+  "tours/photos/2025-09-main-listing-page-features-8.jpg": {
+    "path": "optimized/tours/photos/2025-09-main-listing-page-features-8-0d25ddc5f0e0.webp",
+    "sha256": "0d25ddc5f0e0984d5722828a151e90287b66433e2ede6bfdbf5fe00efd38373a",
+    "bytes": 29968,
+    "source_sha256": "547f6de5eb43bbc5151ea3d22a8d4d2e1de30e089e03e7a064a2a510a7d35992",
+    "width": 465,
+    "height": 550,
+    "lossless": false
+  },
+  "tours/photos/2025-09-main-listing-page-features-9.jpg": {
+    "path": "optimized/tours/photos/2025-09-main-listing-page-features-9-2bce91a7ec6e.webp",
+    "sha256": "2bce91a7ec6ef63a5818f806a982d04756e0e35078c3d10da0387bb87fb9e227",
+    "bytes": 31040,
+    "source_sha256": "6333d24bece4d16e0338b80070d5384a31357f0507ab4e1648020dd2afd6f5f7",
+    "width": 465,
+    "height": 550,
+    "lossless": false
+  },
+  "tours/photos/2025-09-sigiriya-tour.png": {
+    "path": "optimized/tours/photos/2025-09-sigiriya-tour-cd4b11075cce.webp",
+    "sha256": "cd4b11075cce828716cdc2cfff77ea5801cf5e30d17b280735c4008374901f46",
+    "bytes": 412916,
+    "source_sha256": "eaa82825b4157928e324f9ed9481925898a608e0024fa20dfa97332dab19a31a",
+    "width": 465,
+    "height": 550,
+    "lossless": true
+  },
+  "tours/photos/2026-05-7c61820e-7822-4ae4-9293-2559f873284e.png": {
+    "path": "optimized/tours/photos/2026-05-7c61820e-7822-4ae4-9293-2559f873284e-7d98889234bc.webp",
+    "sha256": "7d98889234bc849d384b838dc721fdf1cc9fbba4f6351db9d94628e1f7486e42",
+    "bytes": 1274382,
+    "source_sha256": "98080c0b7cee5433da6565cf74d09c320ff3b559c4f56527685481ac1455884e",
+    "width": 1023,
+    "height": 1166,
+    "lossless": true
+  },
+  "tours/photos/2026-05-colombo-city.jpg": {
+    "path": "optimized/tours/photos/2026-05-colombo-city-0c006dcddb74.webp",
+    "sha256": "0c006dcddb74c790409e97da9357ba745ebdfa3307d68b07e36964f90059e615",
+    "bytes": 47504,
+    "source_sha256": "32a85d745131c03af86b29f64eec182ab6cf161af2f9fdec84a5df4c49a0a67e",
+    "width": 640,
+    "height": 360,
+    "lossless": false
+  },
+  "tours/photos/2026-05-fitsbanner.png": {
+    "path": "optimized/tours/photos/2026-05-fitsbanner-7d0bd1f54d4e.webp",
+    "sha256": "7d0bd1f54d4e1cae70223470edbae12d620a73913928ea91d630d19833c57b45",
+    "bytes": 619754,
+    "source_sha256": "e06cd0da3b0a3d5d801dd5e8e5ce1407102811a3996846d1033ec29ea2a4b52e",
+    "width": 1920,
+    "height": 1080,
+    "lossless": true
+  },
+  "tours/photos/2026-06-indepedance-square.jpg": {
+    "path": "optimized/tours/photos/2026-06-indepedance-square-1baa4990293a.webp",
+    "sha256": "1baa4990293ac3ae793b3a772edd94090cb10ed8d02fa517b1992435a040123d",
+    "bytes": 23680,
+    "source_sha256": "47b86e6191752383316bbac7568b6c0e7ca01e7ad840bcc274f3b26d0647bf90",
+    "width": 553,
+    "height": 311,
+    "lossless": false
+  },
+  "tours/photos/beyond-boundaries-adventure-route-map-geographic.png": {
+    "path": "optimized/tours/photos/beyond-boundaries-adventure-route-map-geographic-bc301bbcba39.webp",
+    "sha256": "bc301bbcba39bd8daee397e86525beefbddddd6cdfa0f712bf6d46303bfca687",
+    "bytes": 1350264,
+    "source_sha256": "f438f75ebcf31ba8ee2db0a1574c0ebad3f656aa0f007949c64e344d76a0afed",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/coastal-romance-escape-route-map-geographic.png": {
+    "path": "optimized/tours/photos/coastal-romance-escape-route-map-geographic-6bdaaeaea9f7.webp",
+    "sha256": "6bdaaeaea9f79320284aaa2add135586f9d8f62e3ad2e5bad8460e57f2483e88",
+    "bytes": 1117682,
+    "source_sha256": "8805b48a42c15033c3f639dc78ca043e1fb5ba6af9f883619ed692caebf01daf",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/colombo-city-escape-route-map-geographic.png": {
+    "path": "optimized/tours/photos/colombo-city-escape-route-map-geographic-5af1652018e9.webp",
+    "sha256": "5af1652018e974f9f3f0ad57cdb8678b42716116d9c4c80eccf0bfc475dafa5f",
+    "bytes": 1091024,
+    "source_sha256": "a05a91e4e25c0db442fd0e4226cf137739bcd0ddf210756087a6b2a23e68ed2d",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/cultural-odyssey-of-sri-lanka-route-map-geographic.png": {
+    "path": "optimized/tours/photos/cultural-odyssey-of-sri-lanka-route-map-geographic-c90a43fcc304.webp",
+    "sha256": "c90a43fcc3048f34affd88bbacc9f518b7da5d74a3348ef2846fa90ef896b377",
+    "bytes": 1245836,
+    "source_sha256": "770e9871da3f7ad593cf8401d20b1457e9f450a89c9a4228c2fe76cb0769657a",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/eastern-coast-blue-escape-route-map-geographic.png": {
+    "path": "optimized/tours/photos/eastern-coast-blue-escape-route-map-geographic-446844c9a8ec.webp",
+    "sha256": "446844c9a8ec890b04f01550d94fbc4beece3654049f7e2852a8cc17ff224c52",
+    "bytes": 1257770,
+    "source_sha256": "c953c5fb0452fbad7f14a5bbd77ba01122c7dd7258fbf3ff87ce4f73a61c8aab",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/eastern-coast-blue-escape-route-map-v8.png": {
+    "path": "optimized/tours/photos/eastern-coast-blue-escape-route-map-v8-45e0175ec3ea.webp",
+    "sha256": "45e0175ec3ea2bb7f95f3b96f939c110a113f92f4a83f75717f867839d22ab70",
+    "bytes": 1500668,
+    "source_sha256": "d96219c304c89fd3ec01e954b017ced7ee527b6c142c6dfb026b0a48d23938f1",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/family-island-escapade-route-map-geographic.png": {
+    "path": "optimized/tours/photos/family-island-escapade-route-map-geographic-5f13e34b9678.webp",
+    "sha256": "5f13e34b96781d67a10bccf1501762584bd7287c63bd76e953c5f6b568633e6d",
+    "bytes": 1370882,
+    "source_sha256": "41d5aca21f5f2e9f9011049cb5d97a912862eacfc27bf6a8535107a1347fb347",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/heritage-legacy-grand-tour-route-map-geographic.png": {
+    "path": "optimized/tours/photos/heritage-legacy-grand-tour-route-map-geographic-8fd4a2e442b6.webp",
+    "sha256": "8fd4a2e442b61860508bd6137189703edd5154bf0f0e2ef63d7c14bc22176a2a",
+    "bytes": 1389090,
+    "source_sha256": "9e84983b9b74c93318289e67a6cf915f65be3068559b4f2de74a63cfb3ae7fa4",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/hill-country-coast-escape-route-map-geographic.png": {
+    "path": "optimized/tours/photos/hill-country-coast-escape-route-map-geographic-b6e92816c719.webp",
+    "sha256": "b6e92816c719579c2c786e121201e6f82b7f89a35f60cf82cbe4c5b76cbeceaf",
+    "bytes": 1215870,
+    "source_sha256": "514c812b9373e721df6e8c42311d2c28f1d9e67082eba99fa2903bb4eebfbd41",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/hill-country-retreat-route-map-geographic.png": {
+    "path": "optimized/tours/photos/hill-country-retreat-route-map-geographic-6bd39ecc397b.webp",
+    "sha256": "6bd39ecc397bd50c5cc566ae1459f73a917250b8c19cb945074c7b590f100d47",
+    "bytes": 1178630,
+    "source_sha256": "ebc6a63b6ae34332b8f4595c79f225113e42112dff9a7cafd490f2e089a49402",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/historic-sri-lanka-journey-route-map-geographic.png": {
+    "path": "optimized/tours/photos/historic-sri-lanka-journey-route-map-geographic-b0ac1a899258.webp",
+    "sha256": "b0ac1a8992585df669eba1442cea1a1254d47d9f8eece2f9417b7ea061acae28",
+    "bytes": 1176354,
+    "source_sha256": "d53bb77c86b8d45eceee19a7fda6d5262f4ad798a531a0eb3f100341285669f5",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/into-sri-lankas-wild-route-map-geographic.png": {
+    "path": "optimized/tours/photos/into-sri-lankas-wild-route-map-geographic-ba6b414cf387.webp",
+    "sha256": "ba6b414cf3870007a02944defec8aecbcb5123038d592f81d0506715b1c9731f",
+    "bytes": 1394904,
+    "source_sha256": "16f9170231f924a382d8e3a69c00c1f1b664ffa8f24e1e0dcdf296b706ff9de8",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/island-highlights-escape-route-map-geographic.png": {
+    "path": "optimized/tours/photos/island-highlights-escape-route-map-geographic-51dc13304f12.webp",
+    "sha256": "51dc13304f12a88a704c7b7a2150e27bf06a0cbc4dbc7c652bd182f1b4ed56d5",
+    "bytes": 1152434,
+    "source_sha256": "6231fefa085d9f9357b040493ae1ec791a2e6b819b896a06345f67f7b7313209",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/love-culture-adventure-route-map-geographic.png": {
+    "path": "optimized/tours/photos/love-culture-adventure-route-map-geographic-36d2c8425ec4.webp",
+    "sha256": "36d2c8425ec4f4cf48e724e5a2b67f905abdea284bcec8eb40e8fe3f5526e0ba",
+    "bytes": 1342408,
+    "source_sha256": "eecc640d45f3c63328fcb01683db46558ffd4d99c90e45e82a5620314b4a254a",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/magical-sri-lanka-family-journey-route-map-geographic.png": {
+    "path": "optimized/tours/photos/magical-sri-lanka-family-journey-route-map-geographic-3e58516f21fa.webp",
+    "sha256": "3e58516f21fad65ba0fd017d3d4d5f8e6f5f1fef72a6475ce9095c382da7fcdf",
+    "bytes": 1341440,
+    "source_sha256": "c75eb92a103eee870357f908a60fa5751f00f51e5c907e3e473942f2f8fcd074",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/romantic-hills-heritage-retreat-route-map-geographic.png": {
+    "path": "optimized/tours/photos/romantic-hills-heritage-retreat-route-map-geographic-ddf0ef04b012.webp",
+    "sha256": "ddf0ef04b012af260290f5e08951143673244019426a49d5378ac0815f040788",
+    "bytes": 1245646,
+    "source_sha256": "6da88240a1448ce8ad5447b77db22a3500b7ccb2c9088f2720af5645840ebe6e",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/southern-adventure-explorer-route-map-geographic.png": {
+    "path": "optimized/tours/photos/southern-adventure-explorer-route-map-geographic-91c8fc2fcf62.webp",
+    "sha256": "91c8fc2fcf621911397db535a2c538d6bf43789b4a75cc508beed7b12a53910f",
+    "bytes": 1208734,
+    "source_sha256": "5053c4450aefe41bd5be7f771e50397daf3f1f5317f758c4d87afef9d8f96064",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/southern-sands-journey-route-map-geographic.png": {
+    "path": "optimized/tours/photos/southern-sands-journey-route-map-geographic-4660cc81f83c.webp",
+    "sha256": "4660cc81f83c23596881a63617bfb62a40c8b320d5a85bbda2bee306eb910a38",
+    "bytes": 1243610,
+    "source_sha256": "970a2da7d94f5a869c10729e092a2a3494ac90f33e0b1d09885ccb8edf0d98a3",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/sri-lanka-extended-discovery-route-map-geographic.png": {
+    "path": "optimized/tours/photos/sri-lanka-extended-discovery-route-map-geographic-52b9959bcdc5.webp",
+    "sha256": "52b9959bcdc56d0c83b4a57e9a98152bde35d6555de5c0a6f46636f02c378c92",
+    "bytes": 1155084,
+    "source_sha256": "a9eafcafc6683fb24aff1bcee7ed71f070dbe2817b9785e8d3e2ba00053a2489",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/sri-lanka-grand-circuit-route-map-geographic.png": {
+    "path": "optimized/tours/photos/sri-lanka-grand-circuit-route-map-geographic-05a150b3f988.webp",
+    "sha256": "05a150b3f98808842a17ec27cb53d75c6fd7233266eaa031338f672e797e5aa9",
+    "bytes": 1155174,
+    "source_sha256": "554f90f4dead40f941e9fe7ea2decd660b55dfb9cedc230c275484970f4b2f33",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/sunrise-coast-circuit-route-map-geographic.png": {
+    "path": "optimized/tours/photos/sunrise-coast-circuit-route-map-geographic-014784e78306.webp",
+    "sha256": "014784e783067944358bcbccf1eb895bbbc415cdf9b54e3cdcaf22d49491d2ff",
+    "bytes": 1298744,
+    "source_sha256": "640844ee1191fad99283f44dcf64fab0be6901e409b0611e5b88a1dc0145359a",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/ultimate-island-journey-route-map-geographic.png": {
+    "path": "optimized/tours/photos/ultimate-island-journey-route-map-geographic-20fcd3025fb1.webp",
+    "sha256": "20fcd3025fb1e0c3aedbe9aacef5ed71cf5ddde9c64a6b92146a407b4d580b49",
+    "bytes": 1181992,
+    "source_sha256": "6c917ee12976ca01b759af0d25d69160bbb4c641bfc27929e9327475cf63bafe",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/venture-further-sri-lanka-route-map-geographic.png": {
+    "path": "optimized/tours/photos/venture-further-sri-lanka-route-map-geographic-f91b5cba60f9.webp",
+    "sha256": "f91b5cba60f9ace65ee5dd8054fe0f496f0d9b553af6169716d1c76a22db2317",
+    "bytes": 1230216,
+    "source_sha256": "660e9d7e4ca07f3413dafa3b60bb9298bbd66535ec7c76a436b3dfa3a389d796",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/wild-sri-lanka-uncovered-route-map-geographic.png": {
+    "path": "optimized/tours/photos/wild-sri-lanka-uncovered-route-map-geographic-e927937b9771.webp",
+    "sha256": "e927937b9771e3ce05d062f978fab75b44aef08a20f32e859c04ad56bc7e3c06",
+    "bytes": 1319428,
+    "source_sha256": "705d8aa54af219df602233fbbfe1f6f1f932876b24b7d92519293fcff9ecd90e",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/photos/wild-trails-discovery-route-map-geographic.png": {
+    "path": "optimized/tours/photos/wild-trails-discovery-route-map-geographic-230be036e32f.webp",
+    "sha256": "230be036e32f61dc9dd88d96dd0e13bda89be1849c8983a14c326219dbe5facf",
+    "bytes": 1162906,
+    "source_sha256": "84669222d6119749a49ab224bb0fe927acdb6a3ad6153aaaf8da99a9bd68d9eb",
+    "width": 1198,
+    "height": 1313,
+    "lossless": true
+  },
+  "tours/route-map-art/anuradhapura.jpg": {
+    "path": "optimized/tours/route-map-art/anuradhapura-dd1ca9a9be56.webp",
+    "sha256": "dd1ca9a9be5601be40d33318f64a7756c3e667b8b901dfdbc6c1554da84e5358",
+    "bytes": 47230,
+    "source_sha256": "795a5a60a58502d770edbffae3a6b8c2a2978409af7c5666d0cd9d2ea95f3bf6",
+    "width": 418,
+    "height": 418,
+    "lossless": false
+  },
+  "tours/route-map-art/arugam-bay.jpg": {
+    "path": "optimized/tours/route-map-art/arugam-bay-b5e52b9ec068.webp",
+    "sha256": "b5e52b9ec06803637031261617eea8963870806295d13d19906c780b16d18252",
+    "bytes": 5036,
+    "source_sha256": "87ff951890ea1fff0c84475577b7b9bfc5af06ac93119debd1489f393a8a2215",
+    "width": 152,
+    "height": 152,
+    "lossless": false
+  },
+  "tours/route-map-art/bentota.jpg": {
+    "path": "optimized/tours/route-map-art/bentota-800a1cfff900.webp",
+    "sha256": "800a1cfff900b264f376c04e93aebdbec2814b4d7cd8f91b837e833bea1b65e6",
+    "bytes": 51116,
+    "source_sha256": "31099a2ccb6da9acdd2790e50156b29299ea0dd1a950dfcbefef0cba390519db",
+    "width": 418,
+    "height": 418,
+    "lossless": false
+  },
+  "tours/route-map-art/colombo.jpg": {
+    "path": "optimized/tours/route-map-art/colombo-0b02bedae4a5.webp",
+    "sha256": "0b02bedae4a58500b530c0df0adccae13b97c00dbb3810736c4f35bc63d566c7",
+    "bytes": 4838,
+    "source_sha256": "41c5fcc85b9904dbf37459bd001205ee2dc46475d7c5ee726c10e56077a9a476",
+    "width": 152,
+    "height": 152,
+    "lossless": false
+  },
+  "tours/route-map-art/dambulla.jpg": {
+    "path": "optimized/tours/route-map-art/dambulla-7e16419a837b.webp",
+    "sha256": "7e16419a837bb57761c76599f06dfae13f8680f141ef5fb284bca1697a86839e",
+    "bytes": 57206,
+    "source_sha256": "da8eb371bdd36801bcf4cefed4a375c5b6bcf7151fa90d062e0d7eb557f18aa6",
+    "width": 418,
+    "height": 418,
+    "lossless": false
+  },
+  "tours/route-map-art/ella.jpg": {
+    "path": "optimized/tours/route-map-art/ella-9d81f5f15ee5.webp",
+    "sha256": "9d81f5f15ee5a429518182ed0c94afb347224c201629eef723f017c1467abacb",
+    "bytes": 68328,
+    "source_sha256": "885b7e87303b4b37a32e4853cb4dad932e53828983f38b9dc61f80d246bcb5da",
+    "width": 418,
+    "height": 418,
+    "lossless": false
+  },
+  "tours/route-map-art/galle.jpg": {
+    "path": "optimized/tours/route-map-art/galle-95dc4e0b4d54.webp",
+    "sha256": "95dc4e0b4d5432c2f7f09a8918abb66c93f3c95369f1d97aedef978cfbd44ec5",
+    "bytes": 5768,
+    "source_sha256": "9e8d069ae706e995e469fdd3682d30639f595fa23fdb1d3873a5fa22ea1b923a",
+    "width": 148,
+    "height": 148,
+    "lossless": false
+  },
+  "tours/route-map-art/habarana.jpg": {
+    "path": "optimized/tours/route-map-art/habarana-baebabd7c455.webp",
+    "sha256": "baebabd7c45546539bc677b38845b6942b0d0044288d11c7b8aa7b5000f5fd6b",
+    "bytes": 5152,
+    "source_sha256": "a49757ed1a5dce12f6d3682b6f143c6bd228914c35d000ee345b063b99f099c3",
+    "width": 138,
+    "height": 138,
+    "lossless": false
+  },
+  "tours/route-map-art/hatton.jpg": {
+    "path": "optimized/tours/route-map-art/hatton-ff40544ebd0a.webp",
+    "sha256": "ff40544ebd0ab75cfd7b4437870126a98e2d470293425235cb0f7975668c6687",
+    "bytes": 59118,
+    "source_sha256": "89f97c4cd1588279f9fcba0c4260d497ec547da692b3572fe16dd1e8d41fc7e4",
+    "width": 418,
+    "height": 418,
+    "lossless": false
+  },
+  "tours/route-map-art/hikkaduwa.jpg": {
+    "path": "optimized/tours/route-map-art/hikkaduwa-26cb84ca389b.webp",
+    "sha256": "26cb84ca389b047caae7d55af930deb806b86056b5909a003df6bfc622612474",
+    "bytes": 47400,
+    "source_sha256": "6386537de9501c8213db8777c269693fcdcfff842f17ef4f808ea7324a46c615",
+    "width": 418,
+    "height": 418,
+    "lossless": false
+  },
+  "tours/route-map-art/jaffna.jpg": {
+    "path": "optimized/tours/route-map-art/jaffna-344495b44cd8.webp",
+    "sha256": "344495b44cd8f848e67d25b1c2f53f4d6750b18b636e37d61c60ea7a5809bbcd",
+    "bytes": 47278,
+    "source_sha256": "50ad6e7995bdc6362343aa60d6aa8fc5b976321664371a1240e32e20ddaea4f2",
+    "width": 418,
+    "height": 418,
+    "lossless": false
+  },
+  "tours/route-map-art/kalpitiya.jpg": {
+    "path": "optimized/tours/route-map-art/kalpitiya-1b2248049285.webp",
+    "sha256": "1b22480492851e9a5d9fad63259761eba7bb84e36ed721c64f3c2e5a98d095c5",
+    "bytes": 36766,
+    "source_sha256": "bf55f2dd12f52fcbdadae09c62c57301d46d73d7da9eee8d47176be7f4731b58",
+    "width": 418,
+    "height": 418,
+    "lossless": false
+  },
+  "tours/route-map-art/kandy.jpg": {
+    "path": "optimized/tours/route-map-art/kandy-a310fbdadb92.webp",
+    "sha256": "a310fbdadb924e7028b71d0bfc739d290d051ac2b9bb35e70c2bf3f63d43924d",
+    "bytes": 56906,
+    "source_sha256": "fb8f4fdb211150a7534b8dda41d7739eb980a50bd4f7190e99e4c39899a0ddea",
+    "width": 418,
+    "height": 418,
+    "lossless": false
+  },
+  "tours/route-map-art/kataragama.jpg": {
+    "path": "optimized/tours/route-map-art/kataragama-47b4bb02d822.webp",
+    "sha256": "47b4bb02d822114f32a66c9b7cfc1ac1ec3bc90e48c1e82644cdd1cebb7c5bc7",
+    "bytes": 59890,
+    "source_sha256": "c1ce89aaddaafbafc1be012a8557cef0e96916af9d3f1d571e41d9060551d08b",
+    "width": 418,
+    "height": 418,
+    "lossless": false
+  },
+  "tours/route-map-art/mannar.jpg": {
+    "path": "optimized/tours/route-map-art/mannar-fb77245fad09.webp",
+    "sha256": "fb77245fad0963eb2176e296d924296d9e8d091caad37fc0a16d2f20fe95509b",
+    "bytes": 45016,
+    "source_sha256": "76deb4fc992f171e0e431bd659734cf630848791662e4821edcddc35916f6190",
+    "width": 418,
+    "height": 418,
+    "lossless": false
+  },
+  "tours/route-map-art/mirissa.jpg": {
+    "path": "optimized/tours/route-map-art/mirissa-cf9e75f1d974.webp",
+    "sha256": "cf9e75f1d9740935b20780a8f9b1c84141ab57b1c247aa0e658ed05672dd7738",
+    "bytes": 49066,
+    "source_sha256": "4abe8ddac828eedde0219b17ea2ca17637ae800200b8ae02f6ce4a68810a20bf",
+    "width": 418,
+    "height": 418,
+    "lossless": false
+  },
+  "tours/route-map-art/negombo.jpg": {
+    "path": "optimized/tours/route-map-art/negombo-51332a2f2f35.webp",
+    "sha256": "51332a2f2f35bde7bc72349e5f27842bfacee397791a0a1326ce22d8013e9afb",
+    "bytes": 5664,
+    "source_sha256": "4f4e52b0787233c4f9611f28034a8ef0a72949b8d63c959e602736cbda80a533",
+    "width": 152,
+    "height": 152,
+    "lossless": false
+  },
+  "tours/route-map-art/nuwara-eliya.jpg": {
+    "path": "optimized/tours/route-map-art/nuwara-eliya-328b65e56beb.webp",
+    "sha256": "328b65e56beb8af970fdbb85d64fff861d99652c3b3c0cc224ae26db02b7dd4f",
+    "bytes": 60758,
+    "source_sha256": "14caf5db671756b73c26bc1f33c1aae4296d4eacac593c554b2d00307930f9a5",
+    "width": 418,
+    "height": 418,
+    "lossless": false
+  },
+  "tours/route-map-art/ocean-wash.png": {
+    "path": "optimized/tours/route-map-art/ocean-wash-62e9e93308c1.webp",
+    "sha256": "62e9e93308c1f91cc6dadde11a3b4ffe156b2c07671fbff3734a32bec7e067cc",
+    "bytes": 1390554,
+    "source_sha256": "5c9e0fb636404d487012b41677e6e080e077d965e1a20a5dea34a5256201d63b",
+    "width": 1199,
+    "height": 1312,
+    "lossless": true
+  },
+  "tours/route-map-art/pasikudah.jpg": {
+    "path": "optimized/tours/route-map-art/pasikudah-350674b28fa9.webp",
+    "sha256": "350674b28fa949e38f5badd3625535f4d2f8bcfe63fcf18260757323fd0445f2",
+    "bytes": 4902,
+    "source_sha256": "800ad967d6dceb99a0790f2ae15c1d605e349260d3020b75c16c4d407d68efe9",
+    "width": 152,
+    "height": 152,
+    "lossless": false
+  },
+  "tours/route-map-art/scenic-atlas-1.png": {
+    "path": "optimized/tours/route-map-art/scenic-atlas-1-3bb162ffd2f2.webp",
+    "sha256": "3bb162ffd2f25e75daffe4d93dde527da60b91e5ddeb3f0d23a36b8bc6eff46b",
+    "bytes": 2657276,
+    "source_sha256": "bc1a78458f5283bd819526548e95b8af16e4f096288cadc8cf5ec6babc584308",
+    "width": 1254,
+    "height": 1254,
+    "lossless": true
+  },
+  "tours/route-map-art/scenic-atlas-2.png": {
+    "path": "optimized/tours/route-map-art/scenic-atlas-2-86d19272595e.webp",
+    "sha256": "86d19272595e68fa22daefe6e67096990cae6c88acf30837f7727f107686d4a3",
+    "bytes": 2699966,
+    "source_sha256": "1cc127fb094c6299458969252c5e1654a9970142261debfe71f7e1c972d893e4",
+    "width": 1254,
+    "height": 1254,
+    "lossless": true
+  },
+  "tours/route-map-art/sinharaja.jpg": {
+    "path": "optimized/tours/route-map-art/sinharaja-67d2e0d71936.webp",
+    "sha256": "67d2e0d7193646afb3934de622b5e123e46ba1f3601e27b272fa56298b7ae9ee",
+    "bytes": 73964,
+    "source_sha256": "fb229f6c0c89c56613b4cd51cea33dd5bb025b6da387a93b6f148e4eabf3c988",
+    "width": 418,
+    "height": 418,
+    "lossless": false
+  },
+  "tours/route-map-art/tangalle.jpg": {
+    "path": "optimized/tours/route-map-art/tangalle-9681f49ca67d.webp",
+    "sha256": "9681f49ca67df838d0542f479265b2f1a16f9155c367e486eb149876622dcf1b",
+    "bytes": 39170,
+    "source_sha256": "d437dee5db77f3eb592a03ddbcfb250304c31415059a26e02b429f603fca0747",
+    "width": 418,
+    "height": 418,
+    "lossless": false
+  },
+  "tours/route-map-art/trincomalee.jpg": {
+    "path": "optimized/tours/route-map-art/trincomalee-1ab1e9c0cdd3.webp",
+    "sha256": "1ab1e9c0cdd37607911be3deedaed50d5697f02a978ce444ba84130c913df077",
+    "bytes": 5796,
+    "source_sha256": "1d9f67adaeb2e16f3cad89d289c7c9b39d7e6e5c2661a44b3f29642df806ae7e",
+    "width": 154,
+    "height": 154,
+    "lossless": false
+  },
+  "tours/route-map-art/udawalawe.jpg": {
+    "path": "optimized/tours/route-map-art/udawalawe-a048e6d233b4.webp",
+    "sha256": "a048e6d233b4fb81a85ba2875f067236a62882d199ac8f4fec3a588ded4df3e1",
+    "bytes": 47340,
+    "source_sha256": "734c3cb66a85f8db4aed7b8b735754719855662d75854a112c3bdca2ac651c00",
+    "width": 418,
+    "height": 418,
+    "lossless": false
+  },
+  "tours/route-map-art/weligama.jpg": {
+    "path": "optimized/tours/route-map-art/weligama-68196c4ad5ed.webp",
+    "sha256": "68196c4ad5ed3462dac1d36c8acec561750b8890fca04a3fb5811d9d3041ee12",
+    "bytes": 40456,
+    "source_sha256": "b352b32109cec60e7e3708469deafbe5dfbd84b98119cb6c7d2bc5f576a106b4",
+    "width": 418,
+    "height": 418,
+    "lossless": false
+  },
+  "tours/route-map-art/wilpattu.jpg": {
+    "path": "optimized/tours/route-map-art/wilpattu-1a69c3576e19.webp",
+    "sha256": "1a69c3576e193bf2824301e6b8739b4d6a7eef7ddc22792becaca39fe4f2f0bd",
+    "bytes": 60052,
+    "source_sha256": "1b684a9de929f1672425bf2375ec44c469247ef3c97d36ea6c0ce798a85b24da",
+    "width": 418,
+    "height": 418,
+    "lossless": false
+  },
+  "tours/route-map-art/yala.jpg": {
+    "path": "optimized/tours/route-map-art/yala-75936ad30acd.webp",
+    "sha256": "75936ad30acd71311a314f615ab942c3ee401696d074a985fd30830a444db40c",
+    "bytes": 5922,
+    "source_sha256": "a60d812faae4202916391688e69c8fa523b527fe11796f104fc62f507cbd0193",
+    "width": 148,
+    "height": 148,
+    "lossless": false
+  },
+  "long-stay/galle-coast-v1.webp": {
+    "path": "optimized/long-stay/galle-coast-v1-47dff3a85170.webp",
+    "sha256": "47dff3a8517065bb1bd0b8857a2ce000d87010fad7a4dfb774dd4b794ee15b5e",
+    "bytes": 271404,
+    "source_sha256": "231887d83ed1b9c4397b49502a45276ea7176b0810cb67d8e67595f7f39d2b14",
+    "width": 1536,
+    "height": 1024,
+    "lossless": false
+  },
+  "long-stay/galle-street-v1.webp": {
+    "path": "optimized/long-stay/galle-street-v1-e78fc5c555cf.webp",
+    "sha256": "e78fc5c555cf7f6f81e9c71179c5b272580ffc22ffa1ad5b1b1241bad31134ed",
+    "bytes": 352318,
+    "source_sha256": "b1519ab7f3c224cbb6dc94f0244dbe903ddc34df3c5fcd2dc4d070af7d338f31",
+    "width": 1536,
+    "height": 1024,
+    "lossless": false
+  },
+  "long-stay/galle-walk-v1.webp": {
+    "path": "optimized/long-stay/galle-walk-v1-87dcce670c88.webp",
+    "sha256": "87dcce670c88584399540009b5c80d305476f1cbecefaa045aebb2703d381753",
+    "bytes": 286834,
+    "source_sha256": "204f11ba6a998431af90be65d0321dc5f5a814926fbed4a5a35dbc445f81d8ec",
+    "width": 1536,
+    "height": 1024,
+    "lossless": false
+  }
+}
